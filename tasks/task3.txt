@@ -1,0 +1,11 @@
+# ACTION 3: APPROACH_ASSISTIVE_ZONE (ap)
+# 2026-10-09: NORMAL speed; MATLAB scales it by the fatigue level (low: normal, medium / high: slow = x0.33)
+# retract straight up from the grasp to the pre-grasp (pos1), pre-handling point (pos3), handling point (pos4)
+# (you listed pos1, pos2, pos3, pos4: pos2 is the lowest point INSIDE the storage, so going back to it after the
+#  retract was left out - add it to the path if you really want it)
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=normal
+path=pos1,pos3,pos4
+loop=false

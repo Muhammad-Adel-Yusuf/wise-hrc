@@ -1,0 +1,29 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+90.478265,action change,collab. slow,
+184.8770601,protective stop (proximity),protective stop,active_interaction_risk
+184.8770601,action change,protective stop,active_interaction_risk
+187.2962055,protective stop released,collab. slow,low_human_state_confidence_slow
+187.2962055,action change,collab. slow,low_human_state_confidence_slow
+202.6203062,action change,collab. normal,
+205.5850589,action change,collab. slow,low_human_state_confidence_slow
+218.5718811,action change,collab. normal,
+235.3518772,action change,collab. slow,low_human_state_confidence_slow
+240.8649659,action change,collab. normal,
+250.6099201,action change,collab. slow,low_human_state_confidence_slow
+253.1014717,action change,collab. normal,
+255.6336545,action change,collab. slow,low_human_state_confidence_slow
+260.235037,protective stop (proximity),protective stop,active_interaction_risk
+260.235037,action change,protective stop,active_interaction_risk
+262.2217532,protective stop released,collab. slow,low_human_state_confidence_slow
+262.2217532,action change,collab. slow,low_human_state_confidence_slow
+274.6779279,action change,collab. hold,
+276.3453405,action change,collab. slow,low_human_state_confidence_slow
+293.5354559,action change,collab. normal,
+304.2416804,mode -> solo,task-layer move,transfer_monitored
+304.2416804,action change,task-layer move,transfer_monitored
+460.9687742,mode -> assistive,task-layer move,transfer_monitored
+561.8641196,protective stop (sensing),protective stop,safety_unverified:no_hand_from_camera
+561.8641196,action change,protective stop,safety_unverified:no_hand_from_camera
+563.5274893,protective stop released,task-layer move,transfer_monitored
+563.5274893,action change,task-layer move,transfer_monitored

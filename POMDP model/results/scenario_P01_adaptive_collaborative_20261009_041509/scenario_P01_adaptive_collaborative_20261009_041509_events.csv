@@ -1,0 +1,18 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+12.7437141,action change,collab. slow,
+32.5293612,action change,collab. hold,
+35.3245904,action change,collab. slow,
+75.3294966000001,action change,collab. hold,
+76.9506077000001,action change,collab. slow,
+81.5065816000001,rest warning,collab. hold,
+81.5065816000001,action change,collab. hold,
+92.7482050000001,PAUSE (P),task-layer move,transfer_monitored
+92.7482050000001,rest started,task-layer move,transfer_monitored
+92.7482050000001,action change,task-layer move,transfer_monitored
+95.4457947999999,protective stop (sensing),protective stop,safety_unverified:stale_geometry
+95.4457947999999,action change,protective stop,safety_unverified:stale_geometry
+100.815611,protective stop released,task-layer move,transfer_monitored
+100.815611,action change,task-layer move,transfer_monitored
+115.9624538,rest ended,task-layer move,transfer_monitored
+115.9624538,STOP (X),task-layer move,transfer_monitored

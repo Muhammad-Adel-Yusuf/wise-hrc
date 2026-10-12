@@ -1,0 +1,10 @@
+# ACTION 6: COLLABORATIVE_SLOW_SMOOTH (cs)
+# the same as action 5 at SLOW speed
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=slow
+entry=pos9,pos10,pos11
+path=pos12,pos13
+wait=pos12:2
+loop=true

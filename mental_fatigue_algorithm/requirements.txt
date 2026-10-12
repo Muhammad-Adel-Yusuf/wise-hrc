@@ -1,0 +1,11 @@
+# Runtime
+numpy>=1.26
+opencv-python>=4.9          # GUI window + ArUco marker (workspace_calibration.py)
+mediapipe>=0.10.14          # Tasks API incl. HolisticLandmarker (API names checked against 0.10.33)
+pyorbbecsdk2>=2.0           # Orbbec SDK v2 Python wrapper (import name: pyorbbecsdk); only needed for --source orbbec
+
+# Optional: PowerPoint instruction viewer (key U / --pptx). Slide numbers always work; slide IMAGES need one of:
+#   PowerPoint + pywin32 (Windows), or LibreOffice + pymupdf; otherwise the slide text is shown.
+pywin32>=306; sys_platform == "win32"
+pymupdf>=1.24
+# physical fatigue (../physical_fatigue_model): numpy only

@@ -1,0 +1,9 @@
+# ACTION 0: TRANSFER_TO_STORAGE (task layer: fetch the tool)
+# 2026-10-09: fetching the tool from the storage at NORMAL speed (15 deg/s)
+# from the current position: transit point pos0 (high, storage side), pre-grasp pos1 above box 2, grasp pos2 in box 2
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=normal
+path=pos0,pos1,pos2
+loop=false

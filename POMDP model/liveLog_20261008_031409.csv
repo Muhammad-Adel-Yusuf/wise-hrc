@@ -1,0 +1,121 @@
+time_s,Fp,Fm,attention,present,confidence,face,arm,handInAssemblyArea,handDist_m,clearance_m,zone,risk,geometryVerified,mode,phase,instruction,planner,adapted,final,supervisor,adaptation,fatigueLevel,dialogue,message,sessionOn,estop,keys,cameraAge_s,realRobot,headDist_m,robotAction
+6.5609559,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+7.8815249,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+8.8132302,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+9.3191438,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+9.8230254,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+10.3205928,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+10.826703,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+11.3271369,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+11.8288345,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+12.3790182,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+12.9557848,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+13.4562617,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+13.9571877,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+14.4577447,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+15.016602,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+15.5217019,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+16.023489,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+16.563577,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3,Inf,0,NaN,11
+17.0681279,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3 numpad3,Inf,0,NaN,11
+17.5776889,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3,Inf,0,NaN,11
+18.0804721,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3,Inf,0,NaN,11
+18.5804283,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+19.0936137,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,Inf,0,NaN,11
+19.5967747,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,g,Inf,0,NaN,10
+20.1310425,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+20.6314843,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+21.1306595,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+21.6445867,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+22.1582135,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+22.6715108,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+23.1745059,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+23.6871493,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+24.1889201,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+24.6893594,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+25.2013477,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+25.7028925,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+26.2033645,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+26.716172,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+27.2310911,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+27.7363338,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+28.2505124,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+28.7507395,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+29.265059,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+29.7654593,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+30.2662078,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+30.7668001,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+31.281254,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+31.784177,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+32.2952663,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+32.8106415,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+33.3119087,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+33.8151735,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+34.3289149,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+34.8293727,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+35.3418774,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+35.8449542,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+36.3595328,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+36.8636279,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+37.3667328,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+37.8716138,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+38.3760404,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+38.8762343,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+39.3797573,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+39.9416366,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+40.4430014,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+40.9436105,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+41.44648,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+41.9468749,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+42.4522182,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+42.9526072,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+43.4532553,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+43.9535489,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+44.4544098,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+44.9548351,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+45.4657023,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+45.9659574,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+46.4666035,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+46.9675827,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+47.4809171,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+47.9810886,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+48.481242,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+48.9970085,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+49.5106057,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+50.0265688,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+50.5292836,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+51.0432659,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+51.5436392,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+52.0578171,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+52.5604615,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+53.0606219,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+53.5730688,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+54.0758644,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+54.5903972,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+55.0943456,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+55.5976729,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+56.1006516,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+56.6038234,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+57.1076203,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+57.6107309,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+58.1130083,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+58.6138411,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+59.1159038,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+59.6168095,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+60.1220406,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+60.6315471,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+61.1348852,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+61.6392273,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+62.1420511,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+62.6425221,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+63.1481167,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+63.6504292,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+64.1626806,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+64.6653658,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+65.1788374,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+65.6811836,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+66.1829047,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+66.6937096,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+67.1960141,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+67.698319,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10
+68.2103488,NaN,NaN,NaN,NaN,NaN,NaN,,0,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,Inf,0,NaN,10

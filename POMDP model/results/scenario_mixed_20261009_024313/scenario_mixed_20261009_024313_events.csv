@@ -1,0 +1,71 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+14.891632,action change,collab. slow,
+16.0792507,action change,collab. normal,
+18.830412,protective stop (proximity),protective stop,active_interaction_risk
+18.830412,action change,protective stop,active_interaction_risk
+21.6003492,protective stop released,collab. slow,low_human_state_confidence_slow
+21.6003492,action change,collab. slow,low_human_state_confidence_slow
+22.5019048,action change,collab. normal,
+42.4729798,protective stop (proximity),protective stop,active_interaction_risk
+42.4729798,action change,protective stop,active_interaction_risk
+44.3348601,protective stop released,collab. normal,
+44.3348601,action change,collab. normal,
+51.6523769,action change,collab. slow,low_human_state_confidence_slow
+98.463727,action change,collab. normal,
+144.9150545,protective stop (proximity),protective stop,active_interaction_risk
+144.9150545,action change,protective stop,active_interaction_risk
+146.7535648,protective stop released,collab. normal,
+146.7535648,action change,collab. normal,
+176.7307543,action change,collab. slow,low_human_state_confidence_slow
+227.9047436,action change,collab. normal,
+228.8338084,action change,collab. slow,low_human_state_confidence_slow
+235.1868608,action change,collab. normal,
+252.1386957,action change,collab. slow,low_human_state_confidence_slow
+254.8406325,action change,collab. normal,
+257.4238943,action change,collab. slow,low_human_state_confidence_slow
+262.6381736,action change,collab. normal,
+265.2942759,action change,collab. slow,
+508.481202,rest warning,collab. hold,
+508.481202,action change,collab. hold,
+526.8567886,RESUME (R),collab. slow,
+526.8567886,action change,collab. slow,
+593.6581994,action change,collab. hold,
+594.6986556,protective stop (proximity),protective stop,active_interaction_risk
+594.6986556,action change,protective stop,active_interaction_risk
+596.7656712,protective stop released,collab. slow,
+596.7656712,action change,collab. slow,
+613.3556592,mode -> assistive,task-layer move,transfer_monitored
+613.3556592,action change,task-layer move,transfer_monitored
+620.6055915,action change,wait at safe position,
+768.8274434,tool request (T),task-layer move,transfer_monitored
+768.8274434,action change,task-layer move,transfer_monitored
+800.0126089,action change,assistive hold,
+823.1692086,tool taken,assistive hold,
+824.2070847,action change,task-layer move,transfer_monitored
+830.2886076,action change,wait at safe position,
+836.1773304,mode -> solo,solo normal,
+836.1773304,action change,solo normal,
+863.9088548,action change,solo slow,
+867.6290416,action change,solo normal,
+871.5284524,action change,solo slow,solo_separation_not_verified_slow
+872.5105461,action change,solo normal,
+895.2766877,action change,solo slow,solo_separation_not_verified_slow
+897.6463953,action change,solo normal,
+921.137775,action change,solo slow,solo_separation_not_verified_slow
+923.1390267,action change,solo normal,
+948.1698091,action change,solo slow,solo_separation_not_verified_slow
+952.2863633,action change,solo normal,
+973.4276269,mode -> collaborative,task-layer move,transfer_monitored
+973.4276269,action change,task-layer move,transfer_monitored
+1004.6275744,action change,collab. slow,
+1021.6697035,action change,collab. hold,
+1022.6785059,action change,collab. slow,
+1039.1770742,protective stop (distraction),protective stop,risky_distraction
+1039.1770742,action change,protective stop,risky_distraction
+1047.0201817,protective stop released,collab. slow,
+1047.0201817,action change,collab. slow,
+1062.4490168,action change,collab. hold,
+1064.4825396,action change,collab. slow,
+1072.9894845,action change,task-layer move,transfer_monitored
+1072.9894845,STOP (X),task-layer move,transfer_monitored

@@ -1,0 +1,9 @@
+# ACTION 1: SOLO_CONTINUE_SEPARATED (sc)
+# solo work: box 1 (pos17 / pos18) -> box 2 (pos1 / pos2) -> ASSEMBLY area (pos12, 2 s) -> box 1 ..., repeated; NORMAL speed
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=normal
+path=pos17,pos18,pos17,pos1,pos2,pos1,pos12
+wait=pos12:2
+loop=true

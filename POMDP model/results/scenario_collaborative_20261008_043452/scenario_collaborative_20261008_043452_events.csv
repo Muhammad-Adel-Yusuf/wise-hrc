@@ -1,0 +1,86 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+16.0521999,protective stop (sensing),protective stop,safety_unverified:stale_geometry
+16.0521999,action change,protective stop,safety_unverified:stale_geometry
+19.7870651,protective stop released,task-layer move,transfer_monitored
+19.7870651,action change,task-layer move,transfer_monitored
+41.8568108,action change,collab. normal,
+50.7681783,protective stop (proximity),protective stop,active_interaction_risk
+50.7681783,action change,protective stop,active_interaction_risk
+54.8324238,protective stop released,collab. normal,
+54.8324238,action change,collab. normal,
+58.6494074,protective stop (proximity),protective stop,active_interaction_risk
+58.6494074,action change,protective stop,active_interaction_risk
+60.1366929,protective stop released,collab. slow,low_human_state_confidence_slow
+60.1366929,action change,collab. slow,low_human_state_confidence_slow
+62.863533,action change,collab. hold,
+63.6799577,action change,collab. slow,low_human_state_confidence_slow
+70.9590727,protective stop (proximity),protective stop,active_interaction_risk
+70.9590727,action change,protective stop,active_interaction_risk
+72.3662195,protective stop released,collab. slow,low_human_state_confidence_slow
+72.3662195,action change,collab. slow,low_human_state_confidence_slow
+77.7207718,protective stop (proximity),protective stop,active_interaction_risk
+77.7207718,hand inside prohibited distance (0.05 m),protective stop,active_interaction_risk
+77.7207718,action change,protective stop,active_interaction_risk
+79.2036771,protective stop released,collab. normal,
+79.2036771,action change,collab. normal,
+81.3062623,protective stop (proximity),protective stop,active_interaction_risk
+81.3062623,action change,protective stop,active_interaction_risk
+82.7317704,protective stop released,collab. normal,
+82.7317704,action change,collab. normal,
+85.5209969,protective stop (proximity),protective stop,active_interaction_risk
+85.5209969,action change,protective stop,active_interaction_risk
+87.7682242,protective stop released,collab. normal,
+87.7682242,action change,collab. normal,
+89.2917332,protective stop (proximity),protective stop,active_interaction_risk
+89.2917332,hand inside prohibited distance (0.05 m),protective stop,active_interaction_risk
+89.2917332,action change,protective stop,active_interaction_risk
+92.2152915,protective stop released,collab. normal,
+92.2152915,action change,collab. normal,
+93.0117732,action change,collab. hold,
+93.8301962,action change,collab. normal,
+180.9597165,protective stop (sensing),protective stop,safety_unverified:stale_geometry
+180.9597165,action change,protective stop,safety_unverified:stale_geometry
+182.5399707,protective stop released,collab. normal,
+182.5399707,action change,collab. normal,
+201.4793818,action change,collab. hold,
+202.8748563,action change,collab. normal,
+205.8619902,action change,collab. slow,low_human_state_confidence_slow
+206.616468,protective stop (distraction),protective stop,risky_distraction
+206.616468,action change,protective stop,risky_distraction
+208.1440138,protective stop released,collab. slow,low_human_state_confidence_slow
+208.1440138,action change,collab. slow,low_human_state_confidence_slow
+210.8906933,protective stop (distraction),protective stop,risky_distraction
+210.8906933,action change,protective stop,risky_distraction
+232.8431147,protective stop released,collab. slow,
+232.8431147,action change,collab. slow,
+235.8124019,action change,collab. hold,
+236.7198891,action change,collab. slow,low_human_state_confidence_slow
+278.73149,protective stop (proximity),protective stop,active_interaction_risk
+278.73149,action change,protective stop,active_interaction_risk
+280.2196393,protective stop released,collab. slow,
+280.2196393,action change,collab. slow,
+281.6817747,action change,collab. normal,
+282.6926051,protective stop (proximity),protective stop,active_interaction_risk
+282.6926051,action change,protective stop,active_interaction_risk
+284.3333923,protective stop released,collab. normal,
+284.3333923,action change,collab. normal,
+285.0918528,protective stop (proximity),protective stop,active_interaction_risk
+285.0918528,action change,protective stop,active_interaction_risk
+286.7006451,protective stop released,collab. normal,
+286.7006451,action change,collab. normal,
+288.8668396,protective stop (proximity),protective stop,active_interaction_risk
+288.8668396,action change,protective stop,active_interaction_risk
+296.0612901,protective stop released,collab. normal,
+296.0612901,action change,collab. normal,
+317.0372556,action change,collab. hold,
+318.6474604,action change,collab. normal,
+378.4175232,action change,collab. slow,
+415.8523154,protective stop (distraction),protective stop,risky_distraction
+415.8523154,action change,protective stop,risky_distraction
+419.6276923,protective stop released,collab. slow,
+419.6276923,action change,collab. slow,
+424.6697845,protective stop (distraction),protective stop,risky_distraction
+424.6697845,action change,protective stop,risky_distraction
+430.8780649,protective stop released,collab. slow,
+430.8780649,action change,collab. slow,

@@ -1,0 +1,9 @@
+# ACTION 9: RETREAT_TO_SEPARATED_ZONE (rt)
+# 2026-10-09: retreat to the safe position at FAST speed (30 deg/s)
+# go from the current position to the SAFE position (pos16) via pos14 and pos15
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=fast
+path=pos14,pos15,pos16
+loop=false

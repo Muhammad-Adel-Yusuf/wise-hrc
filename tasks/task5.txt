@@ -1,0 +1,11 @@
+# ACTION 5: COLLABORATIVE_NORMAL (cn)
+# collaborative work at NORMAL speed: first time via pos9-pos11 to pos12; then wait 2 s
+# at pos12, go to pos13, back to pos12, ... until a new action arrives
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+speed=normal
+entry=pos9,pos10,pos11
+path=pos12,pos13
+wait=pos12:2
+loop=true

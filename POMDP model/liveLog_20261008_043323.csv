@@ -1,0 +1,707 @@
+time_s,Fp,Fm,attention,present,confidence,face,arm,handInAssemblyArea,handDist_m,clearance_m,zone,risk,geometryVerified,mode,phase,instruction,planner,adapted,final,supervisor,adaptation,fatigueLevel,dialogue,message,sessionOn,estop,keys,cameraAge_s,realRobot,headDist_m,robotAction
+7.3849829,0,NaN,0,1,0.3,1,left,1,0.620720589315354,0.445327303426962,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.00154679999999985,1,0.704800035471055,11
+9.2049451,0,NaN,0,1,0.3,1,left,1,0.635036298175152,0.459460447312843,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000238799999999983,1,0.683547928092829,11
+11.2668421,0,NaN,0,1,0.3,1,right,0,0.630090422082418,0.473813186111592,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.00049079999999968,1,0.696592054218249,11
+12.2504728,0,NaN,0,1,0.3,1,left,1,0.656955143065339,0.470320861904778,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.75000000015069e-05,1,0.688547790643467,11
+13.0039998,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.753604500000002,1,0.688547790643467,11
+13.5051992,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,1.2548039,1,0.688547790643467,11
+14.0481103,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,1.797715,1,0.688547790643467,11
+14.6543393,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.403944,1,0.688547790643467,11
+15.164992,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.9145967,1,0.688547790643467,11
+15.6689606,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.4185653,1,0.688547790643467,11
+16.1791634,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.9287681,1,0.688547790643467,11
+16.6885912,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.4381959,1,0.688547790643467,11
+17.5170185,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.2666232,1,0.688547790643467,11
+18.1283402,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.8779449,1,0.688547790643467,11
+18.7648367,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.5144414,1,0.688547790643467,11
+19.44007,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.1896747,1,0.688547790643467,11
+20.2700877,0,NaN,0,1,0.3,1,left,1,0.716651944810031,0.5248354984025,3,0,1,1,IDLE,1,tr,tr,ps,stop_held_until_verified_clearance,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.10000000026878e-05,1,0.693747569365111,11
+21.1935228,0,NaN,0,1,0.3,1,left,1,0.670732413112711,0.485770468081764,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.26000000004478e-05,1,0.694244596666045,11
+22.0868506,0,NaN,0,1,0.3,1,left,1,0.664856939499017,0.479650106312006,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.46999999969455e-05,1,0.68940831152518,11
+22.8982731,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.8114572,1,0.68940831152518,11
+24.0044697,0,NaN,0,1,0.3,1,left,1,0.665238709036087,0.482740225968037,3,0,1,1,IDLE,1,tr,tr,ps,stop_held_until_verified_clearance,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.9300000000585e-05,1,0.703566500055254,11
+24.8846929,0,NaN,0,1,0.3,1,left,1,0.665226743298854,0.481341009744055,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000105500000000092,1,0.695653024143502,11
+25.9014684,0,NaN,0,1,0.3,1,right,1,0.715761035541891,0.525611531805311,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.92999999990707e-05,1,0.695884659983247,11
+26.674064,0,NaN,0,1,0.3,1,left,1,0.718530848328727,0.526556401252049,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.65000000005955e-05,1,0.696458764034167,11
+27.4243423,0,NaN,0,1,0.3,1,left,1,0.603292996810008,0.428181949721076,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.53000000000259e-05,1,0.70024033731284,11
+28.2173606,0,NaN,0,1,0.3,1,right,1,0.72250900340411,0.532363472306658,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.02999999988174e-05,1,0.696661682597801,11
+28.7484781,0,NaN,0,1,0.3,1,right,1,0.806111909104437,0.601488315913709,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.69999999993331e-05,1,0.689922647838147,11
+29.3566764,0,NaN,0,1,0.3,1,left,1,0.638487188595041,0.466924867423421,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.94000000025108e-05,1,0.686418691470446,11
+30.2411296,0,NaN,0,1,0.3,1,left,1,0.609744676073518,0.433842721356885,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.95999999997809e-05,1,0.686985079896209,11
+30.8144045,0,NaN,0,1,0.3,1,left,1,0.605023677222636,0.4282,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.24999999989006e-05,1,0.681142716323092,11
+31.4288221,0,NaN,0,1,0.3,1,left,1,0.603190334803203,0.427871006715997,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.50000000008299e-05,1,0.681661191502054,11
+32.033493,0,NaN,0,1,0.3,1,left,1,0.600360933106077,0.424097417747962,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000106000000002382,1,0.678958238774669,11
+32.7239464,0,NaN,0,1,0.3,1,left,1,0.599323668813438,0.425600449046736,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.4800000004841e-05,1,0.683709960436441,11
+33.4767778,0,NaN,0,1,0.3,1,left,1,0.607199184782061,0.429854899041556,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.6700000004214e-05,1,0.673529954790431,11
+34.0782648,0,NaN,0,1,0.3,1,left,1,0.594874146353664,0.420435157997701,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.43999999986522e-05,1,0.66660534801335,11
+34.6257902,0,NaN,0,1,0.3,1,left,1,0.59440021029606,0.418595506850921,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.53999999983989e-05,1,0.670680393332025,11
+35.1750979,0,NaN,0,1,0.3,1,left,1,0.594330017751081,0.41733993895857,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.80000000003611e-05,1,0.675781229393063,11
+35.7272366,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,1,IDLE,1,tr,tr,ps,safety_unverified:stale_geometry,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.552166700000001,1,0.675781229393063,11
+36.7038406,0,NaN,0,1,0.3,1,left,1,0.57869714013463,0.414659676803853,3,0,1,1,IDLE,1,tr,tr,ps,stop_held_until_verified_clearance,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.15000000010468e-05,1,0.683052933527117,11
+37.6097138,0,NaN,0,1,0.3,1,left,1,0.648414227172723,0.468309374394119,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.53000000035786e-05,1,0.688804914326255,11
+38.2916506,0,NaN,0,1,0.3,1,left,1,0.630493338584953,0.451198389353471,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,9.50999999957958e-05,1,0.681544701395294,11
+38.8945044,0,NaN,0,1,0.3,1,left,1,0.595785330467275,0.422545822949546,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.25000000048703e-05,1,0.660467145284306,11
+39.535199,0,NaN,0,1,0.3,1,left,1,0.588576129315486,0.416733919181562,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.35999999979231e-05,1,0.665683926499656,11
+40.1618363,0,NaN,0,1,0.3,1,left,1,0.59419606191896,0.421054867827654,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.5599999999979e-05,1,0.663209506867928,11
+40.966453,0,NaN,0,1,0.3,1,left,1,0.598170184813653,0.426925735360844,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.86999999999216e-05,1,0.665590820249198,11
+41.8739792,0,NaN,0,1,0.3,1,left,1,0.613530186706408,0.442215705935009,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.59000000003107e-05,1,0.672040556811864,11
+42.7453256,0,NaN,0,1,0.3,1,left,1,0.611916097189803,0.438722874061909,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.1100000004235e-05,1,0.682758390647819,11
+43.6967623,0,NaN,0,1,0.3,1,left,1,0.597079810410635,0.420711383272074,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000149000000000399,1,0.69231721053286,11
+44.9493702,0,NaN,0,1,0.3,1,left,1,0.594858310860662,0.417790312296531,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.09999999952038e-05,1,0.670529686143723,11
+45.5887199,0,NaN,0,1,0.3,1,left,1,0.593402746876015,0.417828894723963,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.92999999998278e-05,1,0.671844669547954,11
+46.2014094,0,NaN,0,1,0.3,1,left,1,0.596780202419618,0.420451709221092,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.20000000037157e-05,1,0.671720641338347,11
+46.957196,0,NaN,0,1,0.3,1,left,1,0.606519521532489,0.432100932801241,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.16000000022154e-05,1,0.671761348992334,11
+47.6954379,0,NaN,0,1,0.3,1,left,1,0.595966668531051,0.420817834395279,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000244200000004469,1,0.67407564857366,11
+48.3865595,0,NaN,0,1,0.3,1,left,1,0.575808605354244,0.400950103176878,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.04999999964662e-05,1,0.70105439161309,11
+49.0987653,0,NaN,0,1,0.3,1,left,1,0.597215321303799,0.430420293957263,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.60999999947853e-05,1,0.717121837625937,11
+49.8909216,0,NaN,0,1,0.3,1,left,1,0.583825761678945,0.411865969958598,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.51999999984787e-05,1,0.691056444872631,11
+50.7815065,0,NaN,0,1,0.3,1,left,1,0.647988163472142,0.472233146657632,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.87999999971589e-05,1,0.683281069546054,11
+51.6937304,0,NaN,0,1,0.3,1,left,1,0.544503902649008,0.379166555370049,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.42000000010034e-05,1,0.647326107923974,11
+52.5559023,0,NaN,0,1,0.3,1,left,1,0.476627579982527,0.332069297785196,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.44000000001665e-05,1,0.651990022929799,11
+53.9022605,0,NaN,0,1,0.3,1,right,1,0.585769929238434,0.43855330989978,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.54999999941219e-05,1,0.66467761358421,11
+54.6686146,0,NaN,0,1,0.3,1,left,1,0.589920893001765,0.419812004312613,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,9.75999999965893e-05,1,0.704742903476154,11
+55.4680346,0,NaN,0,1,0.3,1,left,1,0.521950170035416,0.423392160414557,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.54000000032329e-05,1,0.695826875019929,11
+56.2720888,0,NaN,0,1,0.3,1,left,0,0.506837912946536,0.416837912946536,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.70000000021287e-05,1,0.69971924369707,11
+57.1331657,0,NaN,0,1,0.3,1,left,1,0.506016521469408,0.415799598730719,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,3.73000000024604e-05,1,0.699606932498528,11
+57.8794974,0,NaN,0,1,0.3,1,left,1,0.504026983404659,0.412734277102572,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.70999999954347e-05,1,0.699668628709334,11
+58.6250932,0,NaN,0,1,0.3,1,left,1,0.507803200068688,0.415139729416533,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.76000000027921e-05,1,0.699431905191635,11
+59.3382927,0,NaN,0,1,0.3,1,left,1,0.508441796078961,0.414466949399119,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.90999999982478e-05,1,0.694295427033766,11
+60.1405363,0,NaN,0,1,0.3,1,left,0,0.708367912881435,0.608609538779174,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.3400000001177e-05,1,0.701401518390144,11
+60.8012057,0,NaN,0,1,0.3,1,right,1,0.712240780916117,0.538825576309846,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000204300000000046,1,0.707932807546027,11
+61.4978965,0,NaN,0,1,0.3,1,left,1,0.602737380622772,0.430691828521179,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.4500000000578e-05,1,0.699557245691873,11
+62.2306192,0,NaN,0,1,0.3,1,left,1,0.582149585587759,0.411558773796464,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.72999999970148e-05,1,0.683467958283342,11
+62.9328149,0,NaN,0,1,0.3,1,left,1,0.609372833329481,0.443297789805712,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.90000000002533e-05,1,0.676142603301996,11
+63.6827405,0,NaN,0,1,0.3,1,left,1,0.64266702887265,0.458879823452157,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.98999999997341e-05,1,0.669775014463812,11
+64.4471774,0,NaN,0,1,0.3,1,left,1,0.599120221658391,0.43072520370871,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.37000000061971e-05,1,0.678795212122183,11
+65.1069227,0,NaN,0,1,0.3,1,left,1,0.591217235878657,0.414634276865971,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.36999999951604e-05,1,0.680265977394137,11
+65.8559647,0,NaN,0,1,0.3,1,left,1,0.580937311592223,0.412913548335938,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.55999999992218e-05,1,0.685583386613182,11
+66.6684688,0,NaN,0,1,0.3,1,left,1,0.583460050046274,0.410610299560798,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,8.01000000052454e-05,1,0.682139948984078,11
+67.762371,0,NaN,0,1,0.3,1,left,1,0.644874507171744,0.464528972763541,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.1500000004221e-05,1,0.685395790766182,11
+68.7368902,0,NaN,0,1,0.3,1,left,1,0.62508470625988,0.448110244582863,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.05000000067457e-05,1,0.657892468417142,11
+69.8086415,0,NaN,0,1,0.3,1,left,1,0.622264107915602,0.444352558247059,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.20999999970218e-05,1,0.665056433695668,11
+70.6862217,0,NaN,0,1,0.3,1,left,1,0.631948637153369,0.454630916328037,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.06999999995605e-05,1,0.686649408359171,11
+71.5885289,0,NaN,0,1,0.3,1,left,1,0.630739129910298,0.453627370337225,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,7.90999999935593e-05,1,0.701443497368106,11
+72.3039949,0,NaN,0,1,0.3,1,left,1,0.629579971091838,0.45269566961869,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.29000000000224e-05,1,0.703287067988599,11
+73.0474915,0,NaN,0,1,0.3,1,left,1,0.629139126108049,0.45335647724605,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.09000000050719e-05,1,0.701280920886915,11
+73.6387998,0,NaN,0,1,0.3,1,left,1,0.632132620578941,0.455929457485897,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.21000000017102e-05,1,0.696796878580839,11
+74.372718,0,NaN,0,1,0.3,1,left,1,0.631798994934307,0.456069101757766,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000114500000009343,1,0.65091842806914,11
+75.3444672,0,NaN,0,1,0.3,1,left,1,0.631571983229149,0.455787573676265,3,0,1,1,IDLE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,9.67999999943459e-05,1,0.651609844922558,11
+76.1469693,0,NaN,0,1,0.3,1,left,1,0.633548830004444,0.458367020152429,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3 numpad3,0.00126059999999484,1,0.666968949802013,11
+76.7929767,0,NaN,0,1,0.3,1,left,1,0.632591764094349,0.457303429749036,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,0.000462299999995253,1,0.693963752655713,11
+77.4549133,0,NaN,0,1,0.3,1,left,1,0.632347602193604,0.457415907297331,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,numpad3,5.7499999996935e-05,1,0.677906793003286,11
+78.0192654,0,NaN,0,1,0.3,1,left,1,0.631174635105056,0.45658950736204,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.87999999939848e-05,1,0.636227270713854,11
+78.6012123,0,NaN,0,1,0.3,1,left,1,0.634181890312235,0.458072114878412,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,2.99999999953116e-05,1,0.629167584988292,11
+79.1678547,0,NaN,0,1,0.3,1,right,1,0.631784243234983,0.441801762190187,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,5.36000000010972e-05,1,0.640293596719505,11
+79.778815,0,NaN,0,1,0.3,1,right,0,0.591606271095904,0.442492195501413,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,6.17999999974472e-05,1,0.648127479744533,11
+80.6035396,0,NaN,0,1,0.3,1,right,0,0.588657132803128,0.438962655282086,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,rest_robot_to_safe_position,0,none,Session stopped. Press START to begin.,0,0,,4.73999999996977e-05,1,0.655801090270518,11
+81.2792293,0,NaN,0,1,0.3,1,left,1,0.637676877423041,0.454564260983922,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,g,0.000558499999996798,1,0.680576821527151,6
+83.6341219,0,NaN,0,1,0.3,1,left,1,0.599950214601178,0.437069340387711,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000234899999995264,1,0.660230762688319,6
+84.3599161,0,NaN,0,1,0.3,1,left,1,0.603834729044297,0.444117159817001,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000894600000009405,1,0.660789724496379,6
+85.0790102,0,NaN,0,1,0.3,1,left,1,0.600289471838379,0.446768136013308,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.2600000003622e-05,1,0.649760525116754,6
+85.7071227,0,NaN,0,1,0.3,1,left,1,0.586032507630763,0.442930057822462,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,9.67999999943459e-05,1,0.647416326639976,6
+86.3435973,0,NaN,0,1,0.3,1,left,1,0.614379312802767,0.474525298031968,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.64000000053966e-05,1,0.641177494926327,6
+87.2403705,0,NaN,0,1,0.3,1,left,1,0.568432273890215,0.441612936104574,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.0099999995723e-05,1,0.629006184389311,6
+88.0484892,0,NaN,0,1,0.3,1,left,1,0.595055241133124,0.473072955040103,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.25000000095588e-05,1,0.615426819370102,6
+88.8940015,0,NaN,0,1,0.3,1,left,1,0.543591997733594,0.450368372194672,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.92000000065218e-05,1,0.60409007606482,6
+89.9646505,0,NaN,0,1,0.3,1,left,1,0.666765168556367,0.576765168556367,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.04000000031601e-05,1,0.593458431568716,6
+90.8713984,0,NaN,0,1,0.3,1,left,1,0.658062436247504,0.568062436247504,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000106100000010656,1,0.582692037014408,6
+91.7606576,0,NaN,0,1,0.3,1,left,1,0.654392153070313,0.564392153070313,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,6.52000000087583e-05,1,0.57375217646646,6
+92.7716393,0,NaN,0,1,0.3,1,left,1,0.493864212106931,0.403864212106931,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,7.48000000072579e-05,1,0.544392514643616,6
+93.5098229,0,NaN,0,1,0.3,1,left,1,0.493916885720665,0.403916885720665,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.30000000051223e-05,1,0.548609478591101,6
+94.5325108,0,NaN,0,1,0.3,1,left,1,0.483823449204356,0.393823449204356,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,9.45999999970581e-05,1,0.538028279925879,6
+95.6683665,0,NaN,0,1,0.3,1,left,1,0.470156654743927,0.380156654743927,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,9.6200000001545e-05,1,0.531058791472281,6
+96.5990317,0,NaN,0,1,0.3,1,left,1,0.447999977678571,0.357999977678571,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000102099999992333,1,0.510636015181068,6
+97.3314292,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,0.732499599999997,1,0.510636015181068,10
+98.184579,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,1.58564939999999,1,0.510636015181068,10
+98.9130047,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,2.3140751,1,0.510636015181068,10
+99.4899853,0,NaN,0,1,0.3,1,left,1,NaN,NaN,NaN,NaN,0,2,MOVE,1,tr,tr,ps,safety_unverified:stale_geometry,,0,none,,1,0,,2.8910557,1,0.510636015181068,10
+100.3360723,0,NaN,0,1,0.3,1,left,1,0.40956247386693,0.31956247386693,3,0,1,2,MOVE,1,tr,tr,ps,stop_held_until_verified_clearance,,0,none,,1,0,,3.08000000046604e-05,1,0.477215307801416,10
+101.0662944,0,NaN,0,1,0.3,1,left,1,0.40825836182496,0.31825836182496,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,7.32999999968342e-05,1,0.478456037687895,6
+102.2138769,0,NaN,0,1,0.3,1,left,1,0.41794432643595,0.32794432643595,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000357300000004557,1,0.489577348332212,6
+103.0249261,0,NaN,0,1,0.3,1,left,1,0.44235706165947,0.35235706165947,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,6.29999999972597e-05,1,0.520858138076002,6
+103.8739229,0,NaN,0,1,0.3,1,right,1,0.647815351778576,0.454361506370335,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.33999999955859e-05,1,0.531951247766184,6
+104.5707202,0,NaN,0,1,0.3,1,left,1,0.402220611107884,0.312220611107884,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,6.61999999920226e-05,1,0.517307751730051,6
+105.1719738,0,NaN,0,1,0.3,1,left,0,0.450827572359988,0.360827572359988,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.02000000008229e-05,1,0.50783991572148,6
+105.8662004,0,NaN,0,1,0.3,1,right,1,0.508817708025183,0.418817708025183,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.10999999900241e-05,1,0.484955276288443,6
+106.6722405,0,NaN,0,1,0.3,1,right,1,0.510368474731737,0.420368474731737,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,9.79999999941583e-05,1,0.469308406061515,6
+107.2847851,0,NaN,0,1,0.3,1,right,1,0.485279630728511,0.395279630728511,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000143399999998906,1,0.458476106247643,6
+107.9625028,0,NaN,0,1,0.3,1,right,1,0.43384673561063,0.34384673561063,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000177299999990055,1,0.444096397193222,6
+108.6334046,0,NaN,0,1,0.3,1,right,1,0.396796950593121,0.306796950593121,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,7.40000000121199e-05,1,0.435878951086193,6
+109.3556373,0,NaN,0,1,0.3,1,left,1,0.30840729563355,0.21840729563355,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,8.00999999910346e-05,1,0.428542576647875,6
+110.0990391,0,NaN,0,1,0.3,1,right,1,0.39827079983348,0.30827079983348,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.00015199999999993,1,0.422863524083125,6
+110.780522,0,NaN,0,1,0.3,1,left,1,0.250351333130063,0.160351333130063,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,6.51000000004842e-05,1,0.418868666767998,6
+111.4710649,0,NaN,0,1,0.3,1,right,1,0.361225705065406,0.271225705065406,3,0,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.99000000075966e-05,1,0.415186994015949,6
+112.1636919,0,NaN,0,1,0.3,1,left,1,0.230457523201131,0.140457523201131,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.3700000003023e-05,1,0.412180409529614,6
+112.8085793,0,NaN,0,1,0.3,1,left,1,0.263337293219172,0.173337293219172,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.55000000019845e-05,1,0.411972389851553,6
+113.4221939,0,NaN,0,1,0.3,1,right,1,0.317688621137113,0.227688621137113,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.99999999984857e-05,1,0.410718504574605,6
+114.0242998,0,NaN,0,1,0.3,1,right,1,0.331483378165482,0.241483378165482,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,4.00999999925489e-05,1,0.410802117813431,6
+114.6783775,0,NaN,0,1,0.3,1,right,1,0.329723914813591,0.239723914813591,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.84999999944102e-05,1,0.411998373783198,6
+115.2857946,0,NaN,0,1,0.3,1,left,1,0.252302120482568,0.162302120482567,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000199800000004302,1,0.415531394722469,6
+115.9093919,0,NaN,0,1,0.3,1,left,1,0.267969195990882,0.177969195990882,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,0.000159699999997542,1,0.419920242427059,6
+116.5058946,0,0,0,1,0.802,1,left,1,0.216313245086842,0.126313245086842,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,7.92000000018334e-05,1,0.422554434363195,6
+117.0889731,0,0,0,1,0.809,1,left,1,0.216774652577279,0.126774652577279,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.7900000009472e-05,1,0.423471947122829,6
+117.7949845,0,0,0,1,0.813,1,left,1,0.215726331262551,0.125726331262551,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,6.18999999915104e-05,1,0.426748134149407,6
+118.6231022,0,0,0,1,0.822,1,left,1,0.278093401575801,0.188093401575801,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,7.58000000047332e-05,1,0.428957690221308,6
+119.2528655,0,0,0,1,0.831,1,left,1,0.279088193945928,0.189088193945928,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,5.86000000026843e-05,1,0.421004833701467,6
+119.8881262,0,0,0,1,0.831,1,left,1,0.298316794699863,0.208316794699863,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.06999999963864e-05,1,0.419661113280704,6
+120.4969643,0,0,0,1,0.84,1,right,1,0.316449869647627,0.226449869647627,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.4499999998161e-05,1,0.417596575656458,6
+121.106847,0,0,0,1,0.841,1,right,1,0.304637194052204,0.214637194052204,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.32999999983485e-05,1,0.416283905526024,6
+121.726596,0,0,0,1,0.841,1,right,1,0.284957295046117,0.194957295046117,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,3.01000000035856e-05,1,0.414587373179647,6
+122.4775711,0,0,0,1,0.849,1,right,1,0.312550075987833,0.222550075987833,1,1,1,2,MOVE,1,tr,tr,tr,transfer_monitored,,0,none,,1,0,,8.99000000060823e-05,1,0.410763326016333,6
+123.1360401,0,0,0,1,0.849,1,left,1,0.273068837475095,0.183068837475095,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000152600000006942,1,0.411045544921728,5
+124.753352,0,0,0,1,0.851,1,left,1,0.295392518524082,0.205392518524082,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00028110000000936,1,0.403213231429724,5
+125.6920054,0,0,0,1,0.851,1,left,1,0.310168873357724,0.220168873357724,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.54000000047472e-05,1,0.402832669976009,5
+126.4965085,0,0,0,1,0.844,1,left,1,0.296340412363889,0.206340412363889,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.15000000057353e-05,1,0.40023644261861,5
+127.2583514,0,0,0,1,0.838,1,right,1,0.308896406583178,0.218896406583178,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.82999999952472e-05,1,0.401527197086324,5
+128.1509011,0,0,0,1,0.838,1,left,1,0.260803240010549,0.170803240010549,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.629999998926e-05,1,0.401784394918469,5
+128.902108,0,0,0,1,0.839,1,left,0,0.236905403062066,0.146905403062066,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.42999999847871e-05,1,0.405594218400608,5
+129.5775568,0,0,0,1,0.829,1,right,1,0.284591637262939,0.194591637262939,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.88000000081956e-05,1,0.40085406322002,5
+130.169244,0,0,0,1,0.815,1,right,1,0.339103656718709,0.249103656718709,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000110599999999295,1,0.398795085225483,5
+130.7940032,0,0,0,1,0.805,1,right,1,0.273914822527004,0.183914822527004,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.58999999971365e-05,1,0.401268413907698,5
+131.3929901,0,0,0,1,0.806,1,left,1,0.234117641368608,0.144117641368608,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.93999999946482e-05,1,0.376307188344842,5
+132.0474076,0,0,0,1,0.814,1,left,1,0.118847549406793,0.0288475494067925,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,5.00000000158707e-05,1,0.371530173740976,10
+132.9251869,0,0,0,1,0.805,1,left,1,0.0910029669845989,0.00100296698459892,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000336599999997134,1,0.35571047215397,10
+133.5220402,0,NaN,0,1,0.3,1,right,1,0.174719346381561,0.0847193463815613,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,4.80999999865617e-05,1,0.357377307617593,10
+134.4023648,0,0,0,1,0.803,1,,0,NaN,NaN,NaN,NaN,0,2,WORK,1,ps,ps,ps,safety_unverified:no_hand_from_camera,,0,none,,1,0,,3.35999999947489e-05,1,0.401189468954508,10
+135.522967,0,0,0,1,0.807,1,left,1,0.164696873072928,0.0746968730729275,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,6.15999999808992e-05,1,0.372892223035021,10
+136.1116531,0,0,0,1,0.807,1,right,1,0.279672129465916,0.189672129465916,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.52000000166208e-05,1,0.378825474328219,5
+136.8875856,0,0,0,1,0.807,1,right,1,0.289350341281983,0.199350341281983,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000169400000004316,1,0.38031014974623,5
+137.5357415,0,0,0,1,0.807,1,right,1,0.28769299609132,0.19769299609132,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.870000000461e-05,1,0.381617413124716,5
+138.1195014,0,0,0,1,0.802,1,right,1,0.283090427248962,0.193090427248962,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.16999999938616e-05,1,0.381844012654382,5
+138.7254226,0,0,0,1,0.802,1,right,1,0.292449072489553,0.202449072489553,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.52999999917847e-05,1,0.384243477498317,5
+139.3228216,0,0,0,1,0.802,1,right,1,0.316234865250497,0.226234865250497,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.41999999875497e-05,1,0.384249333115882,5
+139.9286367,0,NaN,0,1,0.3,1,left,1,0.127697494102273,0.0376974941022728,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,6.57999999873482e-05,1,0.385522943545517,10
+140.7974823,0,NaN,0,1,0.3,1,right,1,0.29748426849163,0.20748426849163,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000179200000019364,1,0.388516795003768,10
+141.4159222,0,NaN,0,1,0.3,1,right,1,0.288758272608769,0.198758272608769,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000275100000010298,1,0.38838954671824,6
+142.1531345,0,NaN,0,1,0.3,1,right,1,0.296350029525897,0.206350029525897,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.00056309999999371,1,0.386958460302912,6
+142.8147439,0,NaN,0,1,0.3,1,right,1,0.325911306953288,0.235911306953288,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,7.94000000041706e-05,1,0.382840763242369,6
+143.508815,0,NaN,0,1,0.3,1,left,0,0.314541507594785,0.224541507594785,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,3.08999999845128e-05,1,0.386756422053985,6
+144.1427623,0,NaN,0,1,0.3,1,right,0,0.483097205539423,0.393097205539424,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,5.17999999942731e-05,1,0.378213312827563,7
+144.959187,0,NaN,0,1,0.3,1,right,1,0.303919528823009,0.213919528823009,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000207799999998315,1,0.395116160135219,6
+145.8048341,0,NaN,0,1,0.3,1,right,1,0.340802655506086,0.250802655506086,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000243899999986752,1,0.400653141757306,6
+146.435941,0,NaN,0,1,0.3,1,right,1,0.338609996899087,0.248609996899087,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.11000000074091e-05,1,0.401253448583311,6
+147.0715823,0,NaN,0,1,0.3,1,right,1,0.327431061446528,0.237431061446528,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.02999999980602e-05,1,0.397964797438165,6
+147.7003267,0,NaN,0,1,0.3,1,left,1,0.169025974335307,0.0790259743353074,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,8.59000000161814e-05,1,0.398285249538569,6
+148.2976249,0,NaN,0,1,0.3,1,right,1,0.33635169094268,0.24635169094268,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,8.19999999919219e-05,1,0.399117250942627,6
+148.9260664,0,NaN,0,1,0.3,1,left,1,0.288476428846448,0.198476428846448,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.60000000007221e-05,1,0.40099817954699,6
+149.7044583,0,NaN,0,1,0.3,1,left,1,0.279208560040698,0.189208560040698,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,8.48999999902844e-05,1,0.400194627650097,6
+150.3269565,0,NaN,0,1,0.3,1,left,1,0.290576633609793,0.200576633609793,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,6.57999999873482e-05,1,0.400672260082976,6
+150.9599917,0,NaN,0,1,0.3,1,right,1,0.308166610780597,0.218166610780597,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.13999999895987e-05,1,0.405999778325063,6
+151.5992465,0,NaN,0,1,0.3,1,left,1,0.319860297630075,0.229860297630075,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000106399999992846,1,0.391611542220093,6
+152.238302,0,NaN,0,1,0.3,1,left,1,0.109982043989008,0.0199820439890076,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,7.12000000078206e-05,1,0.372109889683142,10
+153.0002449,0,NaN,0,1,0.3,1,right,1,0.174105628857886,0.0841056288578861,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000224400000007563,1,0.365317067764428,10
+153.6454488,0,NaN,0,1,0.3,1,left,1,0.218589775607186,0.128589775607186,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.31000000023596e-05,1,0.374194347899591,6
+154.4947371,0,NaN,0,1,0.3,1,right,1,0.342383016518051,0.252383016518051,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000445900000016763,1,0.408739232274075,6
+155.0869209,0,NaN,0,1,0.3,1,left,1,0.222467121166252,0.132467121166252,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,4.83000000031097e-05,1,0.409925188296596,6
+155.6944388,0,NaN,0,1,0.3,1,right,1,0.319909065204473,0.229909065204473,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,8.99000000060823e-05,1,0.404753863477546,6
+156.3693532,0,NaN,0,1,0.3,1,left,1,0.284652103452618,0.194652103452618,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.69999999981974e-05,1,0.412464034795762,6
+157.0107196,0,NaN,0,1,0.3,1,left,0,0.232613069280296,0.142613069280296,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.36000000010972e-05,1,0.410326930629711,6
+157.6818062,0,NaN,0,1,0.3,1,left,0,0.238970918732803,0.148970918732803,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,7.64000000117449e-05,1,0.41249961212103,6
+158.3263779,0,NaN,0,1,0.3,1,left,0,0.220520701976028,0.130520701976028,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,7.54000000142696e-05,1,0.413343029456165,6
+159.0000011,0,NaN,0,1,0.3,1,left,1,0.0495927414043628,-0.0404072585956372,0,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,9.20999999891592e-05,1,0.413939923177265,10
+159.885353,0,NaN,0,1,0.3,1,left,1,0.22865871949261,0.13865871949261,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000263200000006236,1,0.416109480786007,10
+160.4829064,0,0,0,1,0.815,1,left,1,0.22865871949261,0.13865871949261,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.9399999991474e-05,1,0.416798200571931,5
+161.2245816,0,0,0,1,0.816,1,left,1,0.235164644451499,0.145164644451499,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000238999999993439,1,0.416770416416521,5
+161.8487382,0,0,0,1,0.816,1,right,1,0.32430747755795,0.23430747755795,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.85000000164837e-05,1,0.413141682719137,5
+162.5854916,0,0,0,1,0.816,1,left,1,0.0531485653616351,-0.036901921096237,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,3.2200000021021e-05,1,0.411866240422786,10
+163.3314177,0,0,0,1,0.816,1,left,0,0.249629365259779,0.159629365259779,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000292500000000473,1,0.40423162914349,10
+164.0109997,0,0,0,1,0.816,1,left,1,0.313302473657646,0.223302473657646,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.65000000026339e-05,1,0.391685856267494,5
+165.1745342,0,0,0,1,0.816,1,left,1,0.229426589566249,0.139426589566249,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000252200000005587,1,0.405253426882488,5
+166.0193421,0,0,0,1,0.816,1,left,1,0.341102286711772,0.251102286711772,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.21999999957734e-05,1,0.406498819186477,5
+166.8002262,0,0,0,1,0.816,1,left,1,0.0785161129959959,-0.0243477022746719,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,4.40000000025975e-05,1,0.404905779163499,10
+167.7750929,0,0,0,1,0.816,1,left,1,0.0817117494611393,-0.0127204620819282,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000392400000009729,0,0.409703368304436,10
+168.4494569,0,0,0,1,0.815,1,right,1,0.334742049942937,0.244742049942937,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,8.52000000008957e-05,1,0.413987668898483,10
+169.0474535,0,0,0,1,0.816,1,right,1,0.330624802457408,0.240624802457408,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.49999999968986e-05,1,0.417669067564262,5
+169.9017779,0,0,0,1,0.816,1,right,1,0.33562124485795,0.24562124485795,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000220600000005788,1,0.408827910006154,5
+170.5709625,0,0,0,1,0.816,1,left,1,0.0473777373879336,-0.0426222626120664,0,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,5.55000000019845e-05,1,0.409039399080333,10
+171.4274,0,0,0,1,0.82,1,left,1,0.0562345978913337,-0.0337654021086663,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000308399999994435,1,0.409497509149934,10
+172.2227705,0,0,0,1,0.82,1,left,1,0.0529423271116788,-0.0370576728883212,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,5.88000000050215e-05,1,0.416307206279209,10
+172.8995595,0,0,0,1,0.821,1,left,1,0.333089342369281,0.243089342369281,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,2.90000000120472e-05,1,0.432951371403302,10
+173.4945208,0,0,0,1,0.82,1,left,1,0.256539938411157,0.166539938411156,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.45999999922242e-05,1,0.458069918243929,5
+174.2910025,0,0,0,1,0.82,1,right,0,0.416897469409446,0.326897469409446,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,0.000258899999977302,1,0.404502805923519,7
+175.1094255,0,0,0,1,0.825,1,left,1,0.146237170377439,0.0562371703774385,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000267099999973652,1,0.354955856410343,5
+175.8330301,0,0,0,1,0.826,1,left,1,0.146854690085131,0.0568546900851314,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00022179999999139,1,0.339650702928759,5
+176.5258249,0,0,0,1,0.826,1,left,1,0.149720606464174,0.0597206064641738,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.15000000120835e-05,1,0.334651714473421,5
+177.1502151,0,0,0,1,0.825,1,left,1,0.14676678779615,0.0567667877961496,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00016189999999483,1,0.318872560751156,5
+177.7538479,0,0,0,1,0.825,1,left,1,0.146216996276083,0.0562169962760827,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.52000000166208e-05,1,0.308794591921556,5
+178.3292811,0,0,0,1,0.826,1,left,1,0.148082747138213,0.0580827471382132,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00017940000000749,1,0.301648172545434,5
+179.0436943,0,0,0,1,0.826,1,left,1,0.207796896030716,0.117796896030716,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.03000000012344e-05,1,0.290582621641419,5
+179.6575157,0,0,0,1,0.825,1,left,1,0.161136246698252,0.0711362466982522,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.01000000067597e-05,1,0.291589351657429,5
+180.3239065,0,0,0,1,0.825,1,left,1,0.170528384734038,0.0805283847340377,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.43999999947209e-05,1,0.289355179666789,5
+181.0053538,0,0,0,1,0.825,1,left,1,0.171371555399372,0.0813715553993719,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.18000000069696e-05,1,0.285342338253544,5
+181.6296679,0,0,0,1,0.826,1,left,1,0.172285751006866,0.0822857510068664,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.51999999913733e-05,1,0.291550921795833,5
+182.2955333,0,0,0,1,0.826,1,left,1,0.172083526230723,0.0820835262307232,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.77999999759504e-05,1,0.292565274767871,5
+182.9013458,0,0,0,1,0.825,1,left,1,0.172419169467899,0.0824191694678988,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.54999999956362e-05,1,0.299542601310732,5
+183.622123,0,0,0,1,0.826,1,left,1,0.173833627356734,0.0838336273567344,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.84999999848878e-05,1,0.296580107222315,5
+184.1990013,0,0,0,1,0.825,1,left,1,0.174347067655295,0.084347067655295,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.75999999909982e-05,1,0.296302649330039,5
+184.8152181,0,0,0,1,0.834,1,left,1,0.175366159791449,0.0853661597914489,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.91000000092845e-05,1,0.295160193793133,5
+185.4572899,0,0,0,1,0.835,1,left,1,0.173921620277641,0.0839216202776411,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.00000000126965e-05,1,0.296181177659891,5
+186.1513778,0,0,0,1,0.848,1,left,1,0.173025547246642,0.0830255472466421,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.16000000029726e-05,1,0.296542627627125,5
+186.7707296,0,0,0,1,0.86,1,left,1,0.174815474143452,0.0848154741434522,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.39000000085343e-05,1,0.296545949222039,5
+187.4219471,0,0,0,1,0.856,1,left,1,0.174957852067291,0.0849578520672907,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000138500000019803,1,0.305801275340702,5
+188.2719345,0,0,0,1,0.856,1,left,1,0.17347360029699,0.0834736002969904,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.3099999977112e-05,1,0.295167579520516,5
+188.9326247,0,0,0,1,0.856,1,left,1,0.286005611833055,0.196005611833055,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.72999999772128e-05,1,0.323447986544978,5
+189.5586142,0,0,0,1,0.865,1,left,1,0.349066712821489,0.259066712821489,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00014210000000503,1,0.335655925018463,5
+190.2940012,0,0,0,1,0.875,1,left,1,0.222666701596804,0.132666701596804,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.88999999927364e-05,1,0.309423803221407,5
+191.013999,0,0,0,1,0.889,1,left,1,0.221374930830029,0.131374930830029,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.82000000026983e-05,1,0.302411739190131,5
+191.689346,0,0,0,1,0.889,1,left,1,0.223271807445544,0.133271807445544,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.12000000046464e-05,1,0.318984576429645,5
+192.4170828,0,0,0,1,0.894,1,left,1,0.223277965773607,0.133277965773607,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.54999999956362e-05,1,0.319696512336309,5
+193.165676,0,0,0,1,0.898,1,left,1,0.2281312560786,0.1381312560786,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.13999999959469e-05,1,0.342999489795539,5
+193.8372676,0,0,0,1,0.914,1,left,1,0.226030219218581,0.136030219218581,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000111000000003969,1,0.331148486332038,5
+194.6950044,0,0,0,1,0.914,1,right,1,0.226043646227891,0.136043646227891,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.23999999870739e-05,1,0.322579571578859,5
+195.3383473,0,0,0,1,0.914,1,left,1,0.222352265560754,0.132352265560754,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.70000000202708e-05,1,0.31703439876455,5
+196.1259021,0,0,0,1,0.914,1,left,1,0.221388911194757,0.131388911194757,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.21999999832224e-05,1,0.305092379452519,5
+196.7983419,0,0,0,1,0.914,1,left,1,0.220438063863753,0.130438063863753,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.82000000090466e-05,1,0.306120548150561,5
+197.408133,0,0,0,1,0.914,1,left,1,0.22162910458692,0.13162910458692,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.07999999936237e-05,1,0.307380806167204,5
+198.4120508,0,0,0,1,0.919,1,left,1,0.207753844729767,0.117753844729767,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.67000000128337e-05,1,0.307048628070539,5
+199.183123,0,0,0,1,0.919,1,left,1,0.21897079713971,0.12897079713971,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.54000000015731e-05,1,0.307654432765075,5
+199.8760155,0,0,0,1,0.924,1,left,1,0.220774228568463,0.130774228568463,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.75999999846499e-05,1,0.307189534326936,5
+200.7567953,0,0,0,1,0.924,1,left,1,0.220684412680189,0.130684412680189,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.28999999794632e-05,1,0.308649493762747,5
+201.5416707,0,0,0,1,0.934,1,left,1,0.215126056069459,0.125126056069459,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000171700000009878,1,0.312236673054271,5
+202.1593232,0,0,0,1,0.945,1,left,1,0.212405508403149,0.122405508403148,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.47999999835247e-05,1,0.313332618793512,5
+202.7574995,0,0,0,1,0.945,1,left,1,0.215490231797174,0.125490231797174,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.28999999826374e-05,1,0.31337455225337,5
+203.3586635,0,0,0,1,0.945,1,left,1,0.218330460540897,0.128330460540897,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.3500000007034e-05,1,0.31355294608726,5
+204.1078091,0,0,0,1,0.945,1,left,1,0.217887034951601,0.1278870349516,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.00000000095224e-05,1,0.313346900415498,5
+204.7924867,0,0,0,1,0.962,1,left,1,0.219586247292493,0.129586247292493,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.51000000036584e-05,1,0.313853946924362,5
+205.4254005,0,0,0,1,0.967,1,left,1,0.219871098600976,0.129871098600976,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.88999999959105e-05,1,0.313364595958127,5
+206.0883002,0,0,0,1,0.971,1,left,1,0.219359453865112,0.129359453865111,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.64000000053966e-05,1,0.31336777115715,5
+206.7094969,0,0,0,1,0.986,1,left,1,0.217705581003336,0.127705581003336,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.43000000100346e-05,1,0.315182566142228,5
+207.3926663,0,0,0,1,0.991,1,left,1,0.215891894243392,0.125891894243392,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000102400000002945,1,0.316806202590795,5
+208.1493219,0,0,0,1,0.996,1,left,1,0.215426716077649,0.125426716077649,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.73999999933494e-05,1,0.319913816519387,5
+208.8298059,0,0,0,1,0.996,1,left,1,0.213822777084201,0.123822777084201,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.87999999986732e-05,1,0.321065803224199,5
+209.5273845,0,0,0,1,0.996,1,left,1,0.214077976447835,0.124077976447835,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.66000000187705e-05,1,0.32251072850372,5
+210.1521572,0,0,0,1,0.996,1,left,1,0.21560932261848,0.12560932261848,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.49999999968986e-05,1,0.325788029246011,5
+210.8059085,0,0,0,1,0.996,1,left,1,0.21515101673011,0.12515101673011,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000150999999988244,1,0.328947184210475,5
+211.4292614,0,0,0,1,0.996,1,left,1,0.214941992174633,0.124941992174633,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.17999999942731e-05,1,0.331401961370177,5
+212.0997059,0,0,0,1,0.996,1,left,1,0.218123909739396,0.128123909739396,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.75999999909982e-05,1,0.33589153011054,5
+212.755798,0,0,0,1,0.986,1,left,1,0.219832436187201,0.129832436187201,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.93999999978223e-05,1,0.34192965650847,5
+213.4554117,0,0,0,1,0.982,1,left,1,0.226448691760407,0.136448691760407,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.34000000256674e-05,1,0.318539809129095,5
+214.0604564,0,0,0,1,0.982,1,left,1,0.199517442846484,0.109517442846484,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.4899999980762e-05,1,0.321499611197277,5
+214.7216673,0,0,0,1,0.982,1,left,1,0.206235278262474,0.116235278262474,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.20000000171694e-05,1,0.326267145143363,5
+215.4315344,0,0,0,1,0.982,1,left,1,0.207145287177865,0.117145287177865,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.33000000157335e-05,1,0.34082992826335,5
+216.0494327,0,0,0,1,0.982,1,left,1,0.221821933090486,0.131821933090486,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.2000000007647e-05,1,0.343751261815866,5
+216.6623792,0,0,0,1,0.982,1,left,1,0.210366584799012,0.120366584799012,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.69000000009601e-05,1,0.350129690257767,5
+217.2924193,0,0,0,1,0.982,1,left,1,0.208285429159123,0.118285429159123,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.94999999982338e-05,1,0.352825013285623,5
+218.0469035,0,0,0,1,0.982,1,left,1,0.207056900392139,0.117056900392139,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.33000000220818e-05,1,0.34926428388829,5
+218.6994765,0,0,0,1,0.982,1,left,1,0.205830439925683,0.115830439925683,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.50999999973101e-05,1,0.346563976777737,5
+219.4097109,0,0,0,1,0.982,1,left,1,0.199131740312789,0.109131740312789,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.21999999832224e-05,1,0.343034007060525,5
+220.0918447,0,0,0,1,0.982,1,left,1,0.195585556726462,0.105585556726462,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.3899999989635e-05,1,0.34071071306902,5
+220.7465473,0,0,0,1,0.982,1,left,1,0.197463591580828,0.107463591580828,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.1999999995096e-05,1,0.342085252532172,5
+221.475599,0,0,0,1,0.982,1,left,1,0.216160010177646,0.126160010177646,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.48999999775879e-05,1,0.338355345753544,5
+222.1199123,0,0,0,1,0.982,1,left,1,0.179807396955743,0.0898073969557426,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.95000000203072e-05,1,0.342124699488359,5
+222.7599003,0,0,0,1,0.982,1,left,1,0.164567007629111,0.0745670076291114,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000778800000006186,1,0.334216187519396,5
+223.4443767,0,0,0,1,0.982,1,left,1,0.161399039650179,0.0713990396501788,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.4199999993898e-05,1,0.327510549448411,5
+224.0840419,0,0,0,1,0.977,1,left,1,0.160247340071528,0.0702473400715282,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.83999999971729e-05,1,0.324437698179481,5
+224.6798931,0,0,0,1,0.968,1,left,1,0.172500028985505,0.0825000289855048,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.96999999736636e-05,1,0.322764155382843,5
+225.4622372,0,0,0,1,0.968,1,left,1,0.168131674588698,0.0781316745886984,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.42999999943095e-05,1,0.322639644185274,5
+226.1099695,0,0,0,1,0.968,1,left,1,0.166904343861986,0.0769043438619858,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.96000000143704e-05,1,0.323996003061766,5
+226.6886605,0,0,0,1,0.968,1,left,1,0.169560313752953,0.0795603137529534,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.06000000023232e-05,1,0.324484298541547,5
+227.269896,0,0,0,1,0.968,1,left,1,0.175257096860584,0.0852570968605836,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.60999999852629e-05,1,0.320625903507499,5
+227.8674604,0,0,0,1,0.968,1,left,1,0.1696427422556,0.0796427422556002,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.97999999929743e-05,1,0.319914832416379,5
+228.4605705,0,0,0,1,0.959,1,left,1,0.169336204043908,0.0793362040439079,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.15999999745509e-05,1,0.317285628417046,5
+229.316972,0,0,0,1,0.947,1,left,1,0.169470970965531,0.0794709709655314,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.5999999997548e-05,1,0.317212074171208,5
+230.2773895,0,0,0,1,0.929,1,left,1,0.166189560442285,0.0761895604422853,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.97000000020853e-05,1,0.316717618707896,5
+230.9972164,0,0,0,1,0.919,1,left,1,0.167162854725564,0.0771628547255639,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.8900000017984e-05,1,0.314587507698573,5
+232.2345591,0,0,0,1,0.913,1,left,1,0.169767664765703,0.0797676647657026,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00035340000002293,1,0.311766980291371,5
+233.034836,0,0,0,1,0.913,1,left,1,0.190888711033419,0.100888711033419,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.17000000254575e-05,1,0.317139007376891,5
+233.7554706,0,0,0,1,0.913,1,left,1,0.194727912739802,0.104727912739802,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.61999999825002e-05,1,0.317385239102262,5
+234.3684646,0,0,0,1,0.913,1,left,1,0.194999923076908,0.104999923076908,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.10000000101718e-05,1,0.315014301262657,5
+235.0737719,0,0,0,1,0.913,1,left,1,0.18435265118788,0.0943526511878796,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.69999999981974e-05,1,0.31440389628629,5
+235.6841719,0,0,0,1,0.913,1,left,1,0.187046972710066,0.0970469727100655,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.12000000014723e-05,1,0.314226367448691,5
+236.2906892,0,0,0,1,0.913,1,left,1,0.185282864831047,0.0952828648310469,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00038029999998912,1,0.311192560965072,5
+237.1014314,0,0,0,1,0.913,1,left,1,0.195972840297538,0.105972840297538,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.02999999948861e-05,0,0.319531677917456,10
+237.8475733,0,0,0,1,0.913,1,left,1,0.191906253155024,0.101906253155024,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000326900000004571,1,0.304096711590244,5
+238.7522652,0,0,0,1,0.913,1,left,1,0.180793418021785,0.0907934180217852,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000211400000011963,1,0.309757453501929,5
+239.4525825,0,0,0,1,0.913,1,left,1,0.179352111780152,0.0893521117801516,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.97999999961485e-05,1,0.311867359625851,5
+240.1110457,0,0,0,1,0.913,1,left,1,0.165879142751583,0.0758791427515828,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.03999999921234e-05,1,0.318343964918451,5
+240.6997155,0,0,0,1,0.904,1,left,1,0.161567509109969,0.0715675091099692,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.9800000008845e-05,1,0.311501958260297,5
+241.3032618,0,0,0,1,0.894,1,left,1,0.162339058762825,0.0723390587628251,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.54999999956362e-05,1,0.311911429736071,5
+241.9949329,0,0,0,1,0.885,1,right,1,0.167638002851382,0.0776380028513821,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.41000000219083e-05,1,0.300229262397921,5
+242.5718957,0,0,0,1,0.872,1,right,1,0.165187196840433,0.0751871968404331,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.5199999985025e-05,1,0.298341968217681,5
+243.1842259,0,0,0,1,0.867,1,right,1,0.141046729845112,0.0510467298451119,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.71000000049571e-05,1,1.13814715217322,5
+243.909255,0,0,0,1,0.867,1,left,1,0.169884460737291,0.0798844607372905,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00012799999998947,1,0.312436409530003,5
+244.6466403,0,0,0,1,0.867,1,left,1,0.171629950766176,0.081629950766176,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.97000000116077e-05,1,0.33337816365203,5
+245.2476266,0,0,0,1,0.867,1,left,1,0.172020376699971,0.0820203766999712,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.68999999820608e-05,1,0.305475383623624,5
+245.8436724,0,0,0,1,0.867,1,left,1,0.168873591777992,0.0788735917779923,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.82999999999356e-05,1,0.309232113468184,5
+246.4775383,0,0,0,1,0.867,1,left,1,0.164798483002727,0.0747984830027267,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.19999999792253e-05,1,0.298833381669451,5
+247.1761595,0,0,0,1,0.872,1,left,1,0.169375234317181,0.0793752343171811,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.39000000053602e-05,1,0.308166513430645,5
+247.8449403,0,0,0,1,0.872,1,left,1,0.170654182486103,0.0806541824861026,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000136599999990494,1,0.302014387074523,5
+248.4358311,0,0,0,1,0.872,1,left,1,0.170126306019969,0.0801263060199686,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.2600000003622e-05,1,0.305210435601406,5
+249.0317943,0,0,0,1,0.871,1,left,1,0.171258897579075,0.0812588975790747,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.36999999919863e-05,1,0.31288306122256,5
+249.7145227,0,0,0,1,0.872,1,left,1,0.171385501137057,0.0813855011370565,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.67000000128337e-05,1,0.313680761284463,5
+250.3865787,0,0,0,1,0.871,1,left,1,0.16808691204255,0.0780869120425502,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.94999999887114e-05,1,0.313785181294465,5
+251.3261541,0,0,0,1,0.871,1,left,1,0.169490678209747,0.0794906782097469,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.09999999880984e-05,1,0.313990366094248,5
+252.0275481,0,0,0,1,0.872,1,left,1,0.170114167546386,0.0801141675463863,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.55999999865253e-05,1,0.315819473750432,5
+252.8372549,0,0,0,1,0.871,1,left,1,0.169139764691807,0.0791397646918075,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.72000000115713e-05,1,0.315735617249622,5
+253.5801903,0,0,0,1,0.872,1,left,1,0.169791931492636,0.079791931492636,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000107499999984384,1,0.311579107130116,5
+254.2752152,0,0,0,1,0.871,1,left,1,0.170928113544847,0.0809281135448466,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00012119999999527,1,0.312119240034958,5
+254.9693235,0,0,0,1,0.872,1,left,1,0.169505486636864,0.0795054866368638,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.93999999946482e-05,1,0.31277002733638,5
+255.6647667,0,0,0,1,0.872,1,left,1,0.173289122566882,0.0832891225668824,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.00000000095224e-05,1,0.312553451428712,5
+256.3748913,0,0,0,1,0.871,1,left,1,0.164058099464793,0.0740580994647933,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000162799999998242,1,0.3122532465804,5
+257.113259,0,0,0,1,0.871,1,left,1,0.167001976036213,0.0770019760362134,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.73000000056345e-05,1,0.311436173236187,5
+257.7122625,0,0,0,1,0.872,1,left,1,0.168214446466408,0.0782144464664079,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.44000000104461e-05,1,0.310446259439537,5
+258.4194067,0,0,0,1,0.871,1,left,1,0.168645189673468,0.078645189673468,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.57000000121843e-05,1,0.310811100187879,5
+259.0955878,0,0,0,1,0.871,1,left,1,0.162861106468058,0.0728611064680576,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000136599999962073,1,0.307777338347059,5
+259.7707229,0,0,0,1,0.871,1,left,1,0.163235443455152,0.0732354434551516,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.69999999950232e-05,1,0.308703790064197,5
+260.416984,0,0,0,1,0.871,1,left,1,0.16568904610746,0.07568904610746,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.98000000245702e-05,1,0.313418777357069,5
+261.0122458,0,0,0,1,0.872,1,left,1,0.167260096855167,0.0772600968551675,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.28000000233442e-05,1,0.307518633581772,5
+261.6517785,0,0,0,1,0.872,1,left,1,0.167015867509647,0.0770158675096471,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.91999999528525e-05,1,0.299450429954609,5
+262.2389458,0,0,0,1,0.872,1,left,1,NaN,NaN,NaN,NaN,0,2,WORK,1,ps,ps,ps,safety_unverified:stale_geometry,,0,none,,1,0,,0.587226499999986,1,0.299450429954609,10
+263.1346087,0,0,0,1,0.856,1,left,1,0.165257284257003,0.0752572842570033,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000234900000009475,1,0.303579133011477,10
+263.8192,0,0,0,1,0.838,1,left,1,0.166643271691359,0.0766432716913587,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.02000000324188e-05,1,0.307326162244609,5
+265.072916,0,0,0,1,0.838,1,left,1,0.163407282579449,0.0734072825794493,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000164299999994455,1,0.307844473720091,5
+265.8848424,0,0,0,1,0.838,1,left,1,0.170114961129232,0.0801149611292316,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.83000000347056e-05,1,0.314373360830717,5
+266.6445094,0,0,0,1,0.838,1,left,1,0.165972919477847,0.0759729194778473,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.62999999765634e-05,1,0.299718684769569,5
+267.458936,0,0,0,1,0.833,1,left,1,0.169650611552095,0.0796506115520955,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.12999999702879e-05,1,0.325200953258135,5
+268.1511521,0,0,0,1,0.828,1,left,1,0.170219857830983,0.0802198578309828,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.14999999773136e-05,1,0.328692531098594,5
+268.769938,0,0,0,1,0.828,1,left,1,0.168857928448741,0.0788579284487406,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.08000000283937e-05,1,0.310569154939765,5
+269.4777005,0,0,0,1,0.828,1,left,1,0.168801362553742,0.0788013625537424,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000198000000011689,1,0.311302778657692,5
+270.3789389,0,0,0,1,0.828,1,left,1,0.262169143874713,0.172169143874713,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.54999999988104e-05,1,0.343013206742831,5
+271.2992362,0,0,0,1,0.828,1,left,1,0.2645288264065,0.1745288264065,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.18000000069696e-05,1,0.331536151874875,5
+271.9951739,0,0,0,1,0.828,1,left,1,0.210233346546165,0.120233346546165,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.60999999695377e-05,1,0.314065041034497,5
+273.1804444,0,0,0,1,0.837,1,left,1,0.266613034190004,0.176613034190004,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.45999999733249e-05,1,0.313001118208865,5
+274.0773168,0,0,0,1,0.843,1,left,1,0.26790696146237,0.17790696146237,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.8999999996322e-05,1,0.312085004445904,5
+274.7418863,0,0,0,1,0.842,1,left,1,0.25497962663711,0.16497962663711,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.96999999515901e-05,1,0.328831172488254,5
+275.5358388,0,0,0,1,0.842,1,left,1,0.248626969574903,0.158626969574903,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.54000000206179e-05,1,0.316240889196827,5
+276.3924177,0,0,0,1,0.843,1,left,1,0.15755284827638,0.0675528482763799,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.72000000083972e-05,1,0.31518028174364,5
+277.3214507,0,0,0,1,0.843,1,left,1,0.161644455518895,0.0716444555188949,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.38000000208194e-05,1,0.315586897700142,5
+278.0143723,0,0,0,1,0.842,1,left,1,0.169112447797316,0.0791124477973162,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.99000000029082e-05,1,0.318320294671892,5
+278.7968789,0,0,0,1,0.842,1,left,1,0.16968352895906,0.0796835289590595,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.50000000253203e-05,1,0.31936782868661,5
+279.4708554,0,0,0,1,0.842,1,left,1,0.169024791081072,0.0790247910810719,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.82999999778622e-05,1,0.319256339013026,5
+280.1062912,0,0,0,1,0.842,1,left,1,0.171135180486071,0.0811351804860707,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.58999999687148e-05,1,0.320670874885762,5
+280.8054657,0,0,0,1,0.842,1,left,1,0.170096002304581,0.0800960023045809,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,8.58000000221182e-05,1,0.320519952577059,5
+281.5445907,0,0,0,1,0.842,1,left,1,0.169829856032442,0.079829856032442,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.72000000336448e-05,1,0.32056763716882,5
+282.1541827,0,0,0,1,0.837,1,left,1,0.168060524811747,0.0780605248117475,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.76999999566397e-05,1,0.349117831111503,5
+282.7586111,0,0,0,1,0.833,1,right,0,0.578982391787522,0.488982391787522,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,3.14000000116721e-05,1,0.365768082259784,7
+284.1540856,0,0,0,1,0.834,1,right,1,0.258419445862729,0.168419445862729,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000190299999985655,1,0.345764283869806,5
+285.1474423,0,0,NaN,1,0.829,0,left,1,0.290407541224397,0.200407541224397,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000277800000048956,1,0.309056208479946,5
+285.868639,0,0,NaN,1,0.818,0,left,1,0.287693326304244,0.197693326304244,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00019499999996242,1,0.305652237027639,5
+286.5355137,0,0,NaN,1,0.808,0,left,1,0.285756347261089,0.195756347261089,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.88000000270949e-05,1,0.310343181010958,5
+287.1412195,0,NaN,NaN,1,0.3,0,left,1,0.28535791560775,0.19535791560775,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,6.8999999996322e-05,1,0.316264493739022,6
+287.8956973,0,NaN,NaN,1,0.3,0,left,1,0.28550015761817,0.19550015761817,1,1,1,2,WORK,1,cn,cn,ps,risky_distraction,,0,none,,1,0,,0.000316499999996722,1,0.319696262098887,10
+288.7173584,0,NaN,0,1,0.3,1,left,1,0.285857744341482,0.195857744341482,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000394200000016554,1,0.310544698876023,10
+289.4232431,0,NaN,NaN,1,0.3,0,left,1,0.28717557347379,0.19717557347379,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000138699999979508,1,0.315354942881826,6
+290.2087877,0,NaN,NaN,1,0.3,0,left,1,0.286716079074753,0.196716079074753,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000186299999995754,1,0.312198446504783,6
+290.9053877,0,NaN,NaN,1,0.3,0,left,1,0.286466943991798,0.196466943991798,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.43000000132088e-05,1,0.324854136498214,6
+291.5522851,0,NaN,NaN,1,0.3,0,left,1,0.285117326727086,0.195117326727086,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.90999999808628e-05,1,0.322419416288784,6
+292.1699226,0,NaN,NaN,1,0.3,0,left,1,0.287234399054152,0.197234399054152,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,3.1500000034157e-05,1,0.315169176792401,10
+293.4489566,0,NaN,NaN,1,0.3,0,left,1,0.287227801579165,0.197227801579165,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,0.000237299999980678,1,0.318595229091711,10
+294.2078438,0,NaN,NaN,1,0.3,0,left,1,0.284950890505715,0.194950890505715,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,3.64999999646898e-05,1,0.314843548449067,10
+294.8815995,0,NaN,NaN,1,0.3,0,left,1,0.287719411927663,0.197719411927663,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,6.12000000046464e-05,1,0.316401659287684,10
+295.5677648,0,NaN,NaN,1,0.3,0,left,1,0.286419150896025,0.196419150896025,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,0.000168800000039937,1,0.323904600152576,10
+296.2150906,0,NaN,NaN,1,0.3,0,left,1,0.285888282376176,0.195888282376176,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,5.11000000074091e-05,1,0.316938874232872,10
+296.9211201,0,NaN,NaN,1,0.3,0,left,1,0.28486774124144,0.19486774124144,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,5.21999999705258e-05,1,0.327520762700626,10
+297.5589983,0,NaN,NaN,1,0.3,0,left,1,0.285743293884563,0.195743293884563,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,0.000260700000012548,1,0.332588033458812,10
+298.2366652,0,NaN,NaN,1,0.3,0,left,1,0.286136663152417,0.196136663152417,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,2.92000000285952e-05,1,0.328770938496699,10
+298.862647,0,NaN,NaN,1,0.3,0,left,1,0.285441289935426,0.195441289935426,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.68000000068969e-05,1,0.314689338872482,10
+299.4935238,0,NaN,NaN,1,0.3,0,left,1,0.284192786678339,0.194192786678339,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.35999999695014e-05,1,0.313893564763599,10
+300.100812,0,NaN,NaN,1,0.3,0,left,1,0.285767072980776,0.195767072980776,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,5.01000000099339e-05,1,0.312886273268739,10
+300.9448118,0,NaN,NaN,1,0.3,0,left,1,0.2868333488282,0.1968333488282,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.14000000432679e-05,1,0.312586148125601,10
+301.7144509,0,NaN,NaN,1,0.3,0,left,1,0.287152050314811,0.197152050314811,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.20999999732885e-05,1,0.319046156535383,10
+302.3854029,0,NaN,NaN,1,0.3,0,left,1,0.28660868793531,0.19660868793531,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,9.05999999645246e-05,1,0.322057541442519,10
+303.0450235,0,NaN,NaN,1,0.3,0,left,1,0.286602529646896,0.196602529646896,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,7.37999999955719e-05,1,0.319641205103472,10
+303.6651962,0,NaN,NaN,1,0.3,0,left,1,0.289715739993532,0.199715739993532,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,2.51000000162094e-05,1,0.325584689443469,10
+304.2401161,0,NaN,NaN,1,0.3,0,left,1,0.287468850486448,0.197468850486448,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,8.48000000246429e-05,1,0.321868249443775,10
+304.8570906,0,NaN,NaN,1,0.3,0,left,1,0.288094324831295,0.198094324831295,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,9.31999999806976e-05,1,0.322943710265427,10
+305.4781991,0,NaN,NaN,1,0.3,0,left,1,0.287303915740806,0.197303915740806,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.73000000056345e-05,1,0.329024224032213,10
+306.6547774,0,NaN,NaN,1,0.3,0,left,1,0.28743454907161,0.19743454907161,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.21999999957734e-05,1,0.324504468382178,10
+307.363038,0,NaN,NaN,1,0.3,0,left,1,0.286857072424579,0.196857072424579,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,0.000155600000027789,1,0.323574380938912,10
+308.2217245,0,NaN,NaN,1,0.3,0,left,1,0.287320900736441,0.197320900736441,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,8.55999999771484e-05,1,0.325333367486337,10
+308.8871687,0,NaN,NaN,1,0.3,0,left,1,0.287386360149538,0.197386360149538,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,2.86000000073727e-05,1,0.32528058657104,10
+309.6434362,0,NaN,NaN,1,0.3,0,left,1,0.287540623216964,0.197540623216964,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,4.63000000081593e-05,1,0.327636399076781,10
+310.4925973,0,NaN,NaN,1,0.3,0,left,1,0.287462884560773,0.197462884560772,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,5.07999999967979e-05,1,0.325594272062639,10
+311.3701108,0,NaN,NaN,1,0.3,0,left,1,0.288370889654278,0.198370889654278,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,3.44000000040978e-05,1,0.328425592790818,10
+312.1436146,0,NaN,NaN,1,0.3,0,left,1,0.287509773746911,0.197509773746911,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,5.11999999730506e-05,1,0.334981566657033,10
+312.8478875,0,NaN,NaN,1,0.3,0,left,1,0.28757491197947,0.19757491197947,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,0,none,,1,0,,0.000165799999990668,1,0.339122839101114,10
+313.5238852,0,NaN,0,1,0.3,1,left,1,0.285592857053533,0.195592857053533,1,1,1,2,WORK,1,cs,cs,ps,stop_held_until_verified_clearance,,0,none,,1,0,,7.26000000099702e-05,1,0.332487744135028,10
+314.122344,0,NaN,0,1,0.3,1,left,1,0.28184962302618,0.19184962302618,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.30999999707637e-05,1,0.335458164306669,6
+315.0861493,0,NaN,0,1,0.3,1,left,1,0.285607790509993,0.195607790509993,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000269000000002961,1,0.339237409493705,6
+315.7873381,0,NaN,0,1,0.3,1,left,1,0.284443491751877,0.194443491751877,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,8.05000000241307e-05,1,0.350284727043587,6
+316.4784182,0,NaN,0,1,0.3,1,left,1,0.268943191027399,0.178943191027399,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,6.93000000069333e-05,1,0.360794609161501,6
+317.0916312,0,NaN,0,1,0.3,1,right,0,0.366912809806363,0.276912809806363,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,4.13999999864245e-05,1,0.330147073287043,7
+317.9991184,0,NaN,0,1,0.3,1,left,1,0.149757303661624,0.0597573036616244,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000308099999983824,1,0.314414137722845,6
+318.8548815,0,NaN,0,1,0.3,1,left,1,0.155385295314582,0.0653852953145825,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000217599999984941,1,0.290641015687738,6
+319.5398579,0,NaN,0,1,0.3,1,left,1,0.152802814110212,0.062802814110212,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,3.92000000033477e-05,1,0.294941231434332,6
+320.3821959,0,NaN,0,1,0.3,1,left,1,0.156176246593392,0.066176246593392,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000129000000015367,1,0.297351189673087,6
+321.0903796,0,NaN,0,1,0.3,1,left,1,0.157193956626837,0.0671939566268373,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,3.67000000096596e-05,1,0.290618185941623,6
+321.6697431,0,NaN,0,1,0.3,1,left,1,0.157626171684781,0.0676261716847808,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,2.82999999967615e-05,1,0.284936080551411,6
+322.4072267,0,NaN,0,1,0.3,1,left,1,0.154380342012835,0.0643803420128353,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000104200000009769,1,0.284133366572812,6
+323.0700955,0,NaN,0,1,0.3,1,left,1,0.155535044282631,0.065535044282631,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.00032469999996465,1,0.284910178828346,6
+323.6951653,0,NaN,0,1,0.3,1,left,1,0.158835921629838,0.0688359216298379,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,5.11000000074091e-05,1,0.285365484948688,6
+324.3446168,0,NaN,0,1,0.3,1,left,1,0.159035153346674,0.0690351533466736,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,4.78999999700136e-05,1,0.285883560212895,6
+325.0081253,0,NaN,0,1,0.3,1,left,1,0.15809535097529,0.0680953509752896,1,1,1,2,WORK,1,cn,cn,cs,low_human_state_confidence_slow,,0,none,,1,0,,0.000103099999989809,1,0.286444759072321,6
+325.5891115,0,NaN,0,1,0.3,1,left,1,0.158174681918441,0.068174681918441,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.30000000051223e-05,1,0.291449806999421,6
+326.1797315,0,NaN,0,1,0.3,1,left,1,0.159035153346674,0.0690351533466736,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.97999999804233e-05,1,0.300233459161367,6
+326.7832474,0,NaN,0,1,0.3,1,left,1,0.159364770259929,0.0693647702599291,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.99000000154592e-05,1,0.302116815155992,6
+327.5708047,0,NaN,0,1,0.3,1,right,1,0.158127069156422,0.0681270691564224,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.69000000041342e-05,1,0.302361951971474,6
+328.1362581,0,NaN,0,1,0.3,1,left,1,0.158953829774561,0.0689538297745606,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000180200000045261,1,0.303953828730615,6
+328.8424175,0,NaN,0,1,0.3,1,left,1,0.157462566980219,0.0674625669802191,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.94999999887114e-05,1,0.305230028011662,6
+329.5012846,0,NaN,0,1,0.3,1,left,1,0.15859271736117,0.0685927173611702,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.23000000182583e-05,1,0.302839049661697,6
+330.1553039,0,NaN,0,1,0.3,1,left,1,0.159674606622343,0.0696746066223431,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.18999999535663e-05,1,0.304054682581933,6
+330.793729,0,NaN,0,1,0.3,1,left,1,0.210746008265874,0.120746008265874,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.93999999598782e-05,1,0.355384496003976,6
+331.3812594,0,NaN,0,1,0.3,1,left,1,0.163728830692704,0.0737288306927035,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.6799999975301e-05,1,0.331493318183037,6
+331.9788414,0,NaN,0,1,0.3,1,left,1,0.169928779198816,0.0799287791988161,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000184500000045773,1,0.321438174459724,6
+332.5949111,0,NaN,0,1,0.3,1,left,1,0.161019191402764,0.0710191914027641,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.870000000461e-05,1,0.318864893018971,6
+333.2796385,0,NaN,0,1,0.3,1,left,1,0.161260689568165,0.0712606895681647,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000120899999956237,1,0.311628272144875,6
+333.9077394,0,NaN,0,1,0.3,1,left,1,0.16382838581882,0.0738283858188196,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.72000000336448e-05,1,0.310592160235895,6
+334.503261,0,NaN,0,1,0.3,1,left,1,0.163837114232398,0.0738371142323985,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.90000000215696e-05,1,0.309204932043459,6
+335.1354331,0,NaN,0,1,0.3,1,left,1,0.165285238300339,0.0752852383003394,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.92000000096959e-05,1,0.319132966018868,6
+335.9975713,0,NaN,0,1,0.3,1,left,1,0.157453008862962,0.067453008862962,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.37000000172338e-05,1,0.323280435535465,6
+336.7977888,0,NaN,0,1,0.3,1,left,1,0.15980888586058,0.0698088858605803,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.78000000043721e-05,1,0.294437735353334,6
+337.8248105,0,NaN,0,1,0.3,1,right,1,0.161471762237241,0.0714717622372407,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.2000000007647e-05,1,0.300213474048051,6
+338.5267931,0,NaN,0,1,0.3,1,left,1,0.160197784004648,0.0701977840046484,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.32000000248445e-05,1,0.300775397930083,6
+339.4024275,0,NaN,0,1,0.3,1,right,1,0.161091930275852,0.0710919302758521,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000249999999994088,1,0.300655866398778,6
+340.0601329,0,NaN,0,1,0.3,1,left,1,0.160188045746242,0.0701880457462416,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.7199999957902e-05,1,0.307097736885181,6
+340.6512424,0,NaN,0,1,0.3,1,left,1,0.160847287822953,0.0708472878229533,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.34000000193191e-05,1,0.311209559621809,6
+341.6393588,0,NaN,0,1,0.3,1,left,1,0.162773400775434,0.0727734007754338,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,9.24000000281922e-05,1,0.307410816335405,6
+342.3483121,0,NaN,0,1,0.3,1,left,1,0.161152908754388,0.0711529087543876,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.53999999763255e-05,1,0.308627623520643,6
+343.0539136,0,NaN,0,1,0.3,1,left,1,0.161296683164906,0.0712966831649057,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.2900000007885e-05,1,0.308646739817546,6
+343.886369,0,NaN,0,1,0.3,1,left,1,0.161221989815285,0.0712219898152854,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.0900000025631e-05,1,0.2989703664245,6
+344.708294,0,NaN,0,1,0.3,1,left,1,0.156003782005437,0.0660037820054373,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,8.60000000102445e-05,1,0.300496422607658,6
+345.3491563,0,NaN,0,1,0.3,1,left,1,0.155536426601616,0.0655364266016164,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.32000000248445e-05,1,0.296775908725759,6
+346.0060747,0,NaN,0,1,0.3,1,left,1,0.155570852025693,0.0655708520256928,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000124700000014855,1,0.297187398790729,6
+346.6616408,0,NaN,0,1,0.3,1,left,1,0.156257415824018,0.0662574158240177,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.40999999998348e-05,1,0.294911308701447,6
+347.256712,0,NaN,0,1,0.3,1,left,1,0.154090914722446,0.0640909147224456,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.08999999687876e-05,1,0.291600788750648,6
+347.9710216,0,NaN,0,1,0.3,1,left,1,0.155144964468719,0.0651449644687187,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000159899999971458,1,0.288384916387803,6
+348.7788231,0,NaN,0,1,0.3,1,left,1,0.153726282723547,0.0637262827235473,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.95000000203072e-05,1,0.280162042396896,6
+349.4375278,0,NaN,0,1,0.3,1,left,1,0.151552829072901,0.0615528290729012,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.94000000230699e-05,1,0.281160825863064,6
+350.085057,0,NaN,0,1,0.3,1,left,1,0.153917218010202,0.0639172180102018,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.73000000056345e-05,1,0.28725761956822,6
+350.723164,0,NaN,0,1,0.3,1,left,1,0.153778574580466,0.0637785745804662,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.88000000018474e-05,1,0.294183089248855,6
+351.5184416,0,NaN,0,1,0.3,1,left,1,0.152811157969567,0.0628111579695671,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.97000000336811e-05,1,0.301765438710267,6
+352.2832008,0,NaN,0,1,0.3,1,left,1,0.150265032525867,0.0602650325258675,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.79000000016094e-05,1,0.305073532119717,6
+352.945643,0,NaN,0,1,0.3,1,left,1,0.150780403235964,0.0607804032359643,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.12999999955355e-05,1,0.304835529425295,6
+353.6324967,0,NaN,0,1,0.3,1,left,1,0.150126946282138,0.0601269462821381,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.2699999994511e-05,1,0.309641405499975,6
+354.3149447,0,NaN,0,1,0.3,1,left,1,0.150099733510756,0.0600997335107561,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.31999999932486e-05,1,0.313628665781685,6
+354.9122199,0,NaN,0,1,0.3,1,left,1,0.152214092645852,0.0622140926458519,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.7900000026857e-05,1,0.326875358508408,6
+355.5028422,0,NaN,0,1,0.3,1,left,1,0.155002612881203,0.0650026128812028,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,6.7099999967013e-05,1,0.332107603044555,6
+356.0839934,0,NaN,0,1,0.3,1,left,1,0.155504372928867,0.0655043729288665,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.47000000147091e-05,1,0.33422342826319,6
+356.6412492,0,NaN,0,1,0.3,1,left,1,0.157328732277356,0.0673287322773561,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.7900000026857e-05,1,0.336924828411324,6
+357.3906632,0,NaN,0,1,0.3,1,left,1,0.158072989470055,0.0680729894700546,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.64000000053966e-05,1,0.338779544837052,6
+358.0184571,0,NaN,0,1,0.3,1,left,1,0.16009034949053,0.0700903494905298,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.78000000043721e-05,1,0.344796012157913,6
+358.6161264,0,NaN,0,1,0.3,1,left,1,0.160645385865888,0.0706453858658879,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.00022319999999354,1,0.347297178220613,6
+359.391618,0,NaN,0,1,0.3,1,left,1,0.153110580953767,0.0631105809537669,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.48000000119464e-05,1,0.3543130113332,6
+360.0107193,0,NaN,0,1,0.3,1,left,1,0.122542604836032,0.0325426048360324,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,3.15999999997985e-05,1,0.356571353308142,10
+360.8740773,0,NaN,0,1,0.3,1,left,1,0.326763354738563,0.236763354738563,1,1,1,2,WORK,1,cs,cs,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000155600000027789,1,0.352605345960608,10
+361.4988686,0,NaN,0,1,0.3,1,left,1,0.326756315929777,0.236756315929777,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.61999999540785e-05,1,0.351516443427615,6
+362.3505848,0,NaN,0,1,0.3,1,left,0,0.213188953747609,0.123188953747609,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000261199999954442,1,0.361167454236951,6
+362.961004,0,0,0,1,0.807,1,left,1,0.322062944158436,0.232062944158436,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.50999999973101e-05,1,0.358968438724075,5
+363.9718344,0,0,0,1,0.827,1,left,1,0.0676601803130911,-0.0223398196869089,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000275799999997162,1,0.353635758938487,10
+364.9611871,0,0,0,1,0.837,1,left,0,0.152277279986215,0.0622772799862146,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000200600000027862,1,0.351677664914905,10
+365.6126216,0,0,0,1,0.843,1,left,0,0.198084300236036,0.108084300236036,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.2600000003622e-05,1,0.3519921874133,5
+366.3710821,0,0,0,1,0.854,1,left,1,0.0837001194742277,-0.00629988052577226,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000271999999995387,1,0.347585399578291,10
+367.2672185,0,0,0,1,0.873,1,left,1,0.317702014472682,0.227702014472682,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,0.000255799999990813,1,0.346232118671853,10
+367.9798744,0,0,0,1,0.885,1,left,1,0.316953293089061,0.226953293089061,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.61000000200329e-05,1,0.360091849394012,5
+368.7428145,0,0,0,1,0.895,1,left,0,0.221360768881932,0.131360768881932,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.00025620000002391,1,0.348789994122538,5
+369.5129621,0,0,0,1,0.905,1,left,1,0.288230515386557,0.198230515386557,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.18999999535663e-05,1,0.36395286782769,5
+370.1460689,0,0,0,1,0.915,1,right,1,0.11095201665585,0.0209520166558499,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,4.35000000038599e-05,1,0.347494863271387,10
+370.9598271,0,0,0,1,0.928,1,left,1,0.0818904145794854,-0.00877864079529034,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000252100000011524,1,0.342641883020742,10
+371.6136095,0,0,0,1,0.946,1,left,1,0.0719512334849098,-0.0180487665150902,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,5.24999999811371e-05,1,0.344198605459116,10
+372.2789701,0,0,0,1,0.957,1,left,1,0.0619193023216509,-0.0280806976783491,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.000281599999993887,1,0.345932681312419,10
+372.920357,0,0,0,1,0.967,1,left,1,0.0760447236828433,-0.0139552763171567,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,4.27000000513544e-05,1,0.345223550760953,10
+373.5585681,0,0,0,1,0.973,1,right,1,0.117037301746067,0.0270373017460673,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,3.83000000283573e-05,1,0.346009595242675,10
+374.1611232,0,0,0,1,0.973,1,left,1,0.0618719645720095,-0.0281280354279905,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,4.42000000475673e-05,1,0.346424782600783,10
+374.7943306,0,0,0,1,0.973,1,left,1,0.074889852450115,-0.015110147549885,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,4.37000000488297e-05,1,0.347023889667556,10
+375.4042751,0,0,0,1,0.972,1,left,0,0.105118076466419,0.0151180764664195,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,5.4500000032931e-05,1,0.351701705995294,10
+376.180121,0,0,0,1,0.972,1,left,1,0.0956379108931181,0.0056379108931181,1,2,1,2,WORK,1,ps,ps,ps,active_interaction_risk,,0,none,,1,0,,0.00012549999996736,1,0.351202363317789,10
+376.7804331,0,0,0,1,0.968,1,right,1,0.324907140580197,0.234907140580197,1,1,1,2,WORK,1,cn,cn,ps,stop_held_until_verified_clearance,,0,none,,1,0,,8.22999999741114e-05,1,0.340492378769335,10
+377.3405194,0,0,0,1,0.968,1,left,1,0.172210742986609,0.0822107429866093,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.90000000279178e-05,1,0.337522636277924,5
+378.2008374,0,0,0,1,0.959,1,right,1,0.168430905715074,0.0784309057150736,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000249499999995351,1,0.338612595749184,5
+378.8154136,0,0,0,1,0.959,1,left,1,0.170987309470615,0.0809873094706154,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.93999999978223e-05,1,0.330397049018299,5
+379.4816643,0,0,0,1,0.959,1,left,1,0.170029203374009,0.0800292033740087,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.12999999639396e-05,1,0.329366376547455,5
+380.1603799,0,0,0,1,0.959,1,left,1,0.171083780645624,0.081083780645624,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.05000000114342e-05,1,0.327659213207869,5
+380.9992598,0,0,0,1,0.959,1,left,1,0.171552324379473,0.0815523243794732,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000148500000022977,1,0.323332785222903,5
+381.7845802,0,0,0,1,0.959,1,left,1,0.16899008846675,0.07899008846675,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.16999999970358e-05,1,0.325726357545717,5
+382.5337142,0,0,0,1,0.959,1,left,1,0.172223517557853,0.0822235175578527,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.17999999942731e-05,1,0.329217617997579,5
+383.1953038,0,0,0,1,0.959,1,right,1,0.173311828794229,0.0833118287942286,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.17999999690255e-05,1,0.327818318585158,5
+383.8518999,0,0,0,1,0.959,1,left,1,0.172163439789056,0.0821634397890562,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.53999999763255e-05,1,0.326382398422464,5
+384.8779797,0,0,0,1,0.948,1,right,1,0.174051974995976,0.0840519749959764,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000121400000011818,1,0.324664318951128,5
+385.7656299,0,0,0,1,0.948,1,left,1,0.177331412896869,0.0873314128968695,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.14000000432679e-05,1,0.323397912794749,5
+387.5392076,0,0,0,1,0.948,1,left,1,0.175437310740903,0.0854373107409025,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000150899999994181,1,0.321606980645632,5
+388.5580988,0,0,0,1,0.934,1,left,1,0.176810774558566,0.0868107745585659,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.73999999587249e-05,1,0.323955444467291,5
+389.3135349,0,0,0,1,0.934,1,left,1,0.175133349194264,0.0851333491942639,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.33999999877233e-05,1,0.323732389482424,5
+390.1624741,0,0,0,1,0.934,1,left,1,0.175576792316069,0.0855767923160689,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000111199999992095,1,0.338379106920034,5
+391.0302295,0,0,0,1,0.93,1,left,1,0.177499436618824,0.0874994366188242,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.40000000278451e-05,1,0.320008812378659,5
+391.6991878,0,0,0,1,0.93,1,left,1,0.176627970604885,0.0866279706048847,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.84000000066953e-05,1,0.318198318663063,5
+392.4455879,0,0,0,1,0.93,1,left,1,0.175576336674394,0.0855763366743936,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.49000000344313e-05,1,0.320645910624165,5
+393.1086137,0,0,0,1,0.93,1,left,1,0.175407668019388,0.0854076680193885,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.73999999649277e-05,1,0.323634655128279,5
+393.7390627,0,0,0,1,0.93,1,left,1,0.174644037974389,0.0846440379743895,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.17999999626772e-05,1,0.328364797138792,5
+394.4010901,0,0,0,1,0.926,1,left,1,0.175066016119634,0.0850660161196341,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000126899999997931,1,0.328610194607532,5
+395.0469247,0,0,0,1,0.921,1,left,1,0.174988856788082,0.0849888567880823,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.18999999599146e-05,1,0.326346150582476,5
+395.6885638,0,0,0,1,0.927,1,left,1,0.173750568344394,0.0837505683443942,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.91000000188069e-05,1,0.314292427525704,5
+396.2823807,0,0,0,1,0.927,1,left,1,0.174231713531148,0.0842317135311479,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.99999999558531e-05,1,0.311996730752103,5
+397.0815332,0,0,0,1,0.927,1,left,1,0.173094367326034,0.083094367326034,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.91000000061103e-05,1,0.325808686194828,5
+397.7312618,0,0,0,1,0.927,1,left,1,0.184007527019956,0.0940075270199564,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.01000000415297e-05,1,0.333452860236646,5
+398.3164849,0,0,0,1,0.927,1,right,1,0.362389541791702,0.272389541791702,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,9.86999999668114e-05,1,0.347512316328501,7
+399.1896474,0,0,0,1,0.927,1,right,1,0.382493398635846,0.292493398635846,3,0,1,2,WORK,1,ch,ch,ch,,,0,none,,1,0,,0.000329800000031355,1,0.365087879831692,7
+399.9266897,0,0,0,1,0.927,1,left,1,0.309197930135375,0.219197930135375,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.14000000243686e-05,1,0.330139273640686,5
+400.8090943,0,0,0,1,0.927,1,left,1,0.211691804281602,0.121691804281602,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000832000000002608,1,0.327390210605021,5
+401.5945437,0,0,0,1,0.927,1,left,1,0.215354335921058,0.125354335921058,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.42999999879612e-05,1,0.313439116895132,5
+402.4808129,0,0,0,1,0.927,1,left,1,0.219386166382477,0.129386166382477,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.01999999755753e-05,1,0.313353394747847,5
+403.3750506,0,0,0,1,0.927,1,left,1,0.223712896364961,0.133712896364961,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000185100000010152,1,0.315793635148019,5
+404.1413483,0,0,0,1,0.927,1,left,1,0.215674152368799,0.125674152368799,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.89999999899737e-05,1,0.317616939094879,5
+404.9682111,0,0,0,1,0.927,1,left,1,0.210022617829604,0.120022617829604,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.12999999955355e-05,1,0.32367750925883,5
+405.687115,0,0,0,1,0.927,1,left,1,0.226386218661826,0.136386218661826,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.73000000056345e-05,1,0.31965576797549,5
+406.3990557,0,0,0,1,0.923,1,left,1,0.232187639636566,0.142187639636566,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000128300000028503,1,0.324297687318303,5
+407.1758561,0,0,0,1,0.918,1,left,1,0.237976868623822,0.147976868623822,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.06999999679647e-05,1,0.300584580442843,5
+407.8102548,0,0,0,1,0.918,1,left,1,0.241463889639838,0.151463889639838,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000224399999979141,1,0.307526486664157,5
+408.4489869,0,0,0,1,0.918,1,left,1,0.243642483980114,0.153642483980114,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.03000000485554e-05,1,0.30325392000764,5
+409.0345118,0,0,0,1,0.918,1,left,1,0.243229151213419,0.153229151213419,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.72000000083972e-05,1,0.303092428146927,5
+409.9217588,0,0,0,1,0.918,1,left,1,0.244204463513671,0.154204463513671,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.73999999965235e-05,1,0.298865755816888,5
+410.6932745,0,0,0,1,0.918,1,left,1,0.240462117598594,0.150462117598594,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.73999999965235e-05,1,0.302087172849163,5
+411.5671004,0,0,0,1,0.926,1,left,1,0.23506701172219,0.14506701172219,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.97000000273329e-05,1,0.307973083239429,5
+412.1644691,0,0,0,1,0.926,1,left,1,0.23342549132432,0.14342549132432,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.91000000124586e-05,1,0.302304052238801,5
+412.7752723,0,0,0,1,0.927,1,left,1,0.234478698392839,0.144478698392839,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.69999999634274e-05,1,0.302987177946526,5
+413.3947489,0,0,0,1,0.927,1,left,1,0.234608226624729,0.144608226624729,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.53000000359316e-05,1,0.302846677379825,5
+414.2944852,0,0,0,1,0.927,1,left,1,0.234103096946623,0.144103096946623,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.36999999794352e-05,1,0.301496965158855,5
+414.9789719,0,0,0,1,0.927,1,left,1,0.235262087893481,0.145262087893481,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.9999999987449e-05,1,0.301612217922285,5
+415.6275655,0,0,0,1,0.927,1,left,1,0.232862556028229,0.142862556028229,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.01000000099339e-05,1,0.302577262860249,5
+416.2165809,0,0,0,1,0.927,1,left,1,0.232610081466819,0.142610081466819,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.77999999980238e-05,1,0.304108237310337,5
+417.1195502,0,0,0,1,0.927,1,right,1,0.234121549627539,0.144121549627539,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000144400000010592,1,0.312750699439665,5
+418.088863,0,0,0,1,0.927,1,left,1,0.233843131179857,0.143843131179857,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.38000000019201e-05,1,0.313750442230764,5
+418.7314789,0,0,0,1,0.927,1,left,1,0.234072659659346,0.144072659659346,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.98999999902117e-05,1,0.307546386745154,5
+419.5436319,0,0,0,1,0.927,1,left,1,0.235363994697575,0.145363994697575,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.45999999922242e-05,1,0.308637343819571,5
+420.2036322,0,0,0,1,0.927,1,left,1,0.229757284976995,0.139757284976995,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.84000000192464e-05,1,0.317077608796332,5
+420.847922,0,0,0,1,0.927,1,left,1,0.233704706841775,0.143704706841775,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,8.42999999690619e-05,1,0.310158040360072,5
+421.5605465,0,0,0,1,0.927,1,left,1,0.234521640792486,0.144521640792486,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.62999999765634e-05,1,0.308007159007709,5
+422.2458465,0,0,0,1,0.927,1,left,1,0.232975427888866,0.142975427888866,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.41000000250824e-05,1,0.308831831260963,5
+422.9431123,0,0,0,1,0.927,1,left,1,0.22851131263025,0.13851131263025,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.57999999778258e-05,1,0.313782822984306,5
+423.5584361,0,0,0,1,0.927,1,left,1,0.232945358399776,0.142945358399776,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.84999999975844e-05,1,0.316939331734009,5
+424.1861855,0,0,0,1,0.927,1,left,1,0.230773828672144,0.140773828672144,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.84000000066953e-05,1,0.319074223339962,5
+424.9118996,0,0,0,1,0.927,1,left,1,0.23061864625394,0.14061864625394,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.21000000364802e-05,1,0.315655286665692,5
+425.6344543,0,0,0,1,0.93,1,left,1,0.222595350355752,0.132595350355752,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,8.38999999928092e-05,1,0.311447860804983,5
+426.4621626,0,0,0,1,0.93,1,left,1,0.222817010122657,0.132817010122657,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.82999999842104e-05,1,0.308982685599048,5
+427.1292893,0,0,0,1,0.93,1,left,1,0.220158442945075,0.130158442945075,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.76999999882355e-05,1,0.315667324884917,5
+427.8130034,0,0,0,1,0.93,1,left,1,0.229228728566033,0.139228728566033,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000147700000013629,1,0.307973213120882,5
+428.5277516,0,0,0,1,0.93,1,left,1,0.231254729681362,0.141254729681362,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.84000000003471e-05,1,0.308607550134471,5
+429.1757154,0,0,0,1,0.93,1,left,1,0.229806570837302,0.139806570837302,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.36999999919863e-05,1,0.308954430296767,5
+429.848396,0,0,0,1,0.93,1,left,1,0.230564806507845,0.140564806507845,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.81999999806249e-05,1,0.309064944631383,5
+430.5135552,0,0,0,1,0.93,1,left,1,0.230499067243232,0.140499067243232,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.25999999720261e-05,1,0.311030866635451,5
+431.4057106,0,0,0,1,0.93,1,left,1,0.239573412548221,0.149573412548221,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,9.14999999963584e-05,1,0.313279986593462,5
+432.1968349,0,0,0,1,0.929,1,left,1,0.228361139426129,0.138361139426129,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000176599999974769,1,0.322152836399123,5
+433.1204181,0,0,0,1,0.93,1,left,1,0.225574710461966,0.135574710461966,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.24999999874854e-05,1,0.322083001724711,5
+433.9748292,0,0,0,1,0.93,1,left,1,0.228380056046932,0.138380056046932,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.09999999912725e-05,1,0.309113991918839,5
+434.8995389,0,0,0,1,0.93,1,left,1,0.238198173796526,0.148198173796526,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.92000000033477e-05,1,0.315072467854619,5
+435.5333517,0,0,0,1,0.929,1,left,1,0.233319137663416,0.143319137663416,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.4500000032931e-05,1,0.318802587818857,5
+436.4499984,0,0,0,1,0.934,1,left,1,0.222408925180623,0.132408925180623,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.97000000084336e-05,1,0.325610887410111,5
+437.1884012,0,0,0,1,0.934,1,left,1,0.224236616100047,0.134236616100047,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.76000000098975e-05,1,0.32664944512428,5
+438.1147087,0,0,0,1,0.943,1,left,1,0.229044209706336,0.139044209706336,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,7.629999998926e-05,1,0.335348624568523,5
+438.7568347,0,0,0,1,0.943,1,left,1,0.232094334269495,0.142094334269495,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.13999999864245e-05,1,0.333196113422711,5
+439.4375447,0,0,0,1,0.943,1,left,1,0.238869504123067,0.148869504123067,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,0.000183999999990192,1,0.341260267244811,5
+440.0918292,0,0,0,1,0.938,1,left,1,0.240313149869082,0.150313149869082,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.51000000225577e-05,1,0.350994729305156,5
+441.0550842,0,0,0,1,0.939,1,left,1,0.24443839714742,0.15443839714742,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.04000000205451e-05,1,0.358542731065629,5
+441.7317119,0,0,0,1,0.933,1,left,1,0.242923959295908,0.152923959295908,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.82999999778622e-05,1,0.368048760356559,5
+442.3813359,0,0,0,1,0.933,1,left,1,0.242030597239275,0.152030597239275,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.61000000263812e-05,1,0.363294770124757,5
+443.016152,0,0,0,1,0.933,1,left,1,0.242937255273867,0.152937255273867,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.41999999970722e-05,1,0.361113361702388,5
+443.6727886,0,0,0,1,0.933,1,left,1,0.243401068198149,0.153401068198149,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,8.76999999945838e-05,1,0.358448280788177,5
+444.3875569,0,0,0,1,0.934,1,left,1,0.240135253555158,0.150135253555158,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.82000000058724e-05,1,0.355111926017699,5
+445.0789386,0,0,0,1,0.94,1,left,1,0.239327745988634,0.149327745988634,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.5999999997548e-05,1,0.355194045558199,5
+445.758029,0,0,0,1,0.94,1,left,1,0.234467332479388,0.144467332479388,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.16000000377426e-05,1,0.353878693905129,5
+446.3791147,0,0,0,1,0.94,1,left,1,0.229338418063786,0.139338418063786,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.88000000270949e-05,1,0.346068172474731,5
+447.386882,0,0,0,1,0.932,1,left,1,0.230238072438074,0.140238072438074,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.5900000006659e-05,1,0.337824244245436,5
+448.4136897,0,0,0,1,0.946,1,left,1,0.231561719634313,0.141561719634313,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.10000000354194e-05,1,0.302445052860846,5
+450.4004614,0,0,0,1,0.938,1,left,1,0.232491741788821,0.142491741788821,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.12999999702879e-05,1,0.304702822435238,5
+451.1988267,0,0,0,1,0.93,1,left,1,0.236506469256128,0.146506469256128,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.84000000003471e-05,1,0.31293138225496,5
+452.3932539,0,0,0,1,0.93,1,left,1,0.237172953770028,0.147172953770028,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,6.20000000139953e-05,1,0.316989416227104,5
+453.2250944,0,0,0,1,0.93,1,left,1,0.239974248618472,0.149974248618472,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.20999999732885e-05,1,0.319467588340351,5
+453.8930853,0,0,0,1,0.93,1,left,1,0.241084611703028,0.151084611703028,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.69000000041342e-05,1,0.309154556815843,5
+454.6246853,0,0,0,1,0.938,1,left,1,0.241833682517552,0.151833682517552,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.51999999881991e-05,1,0.32391625460912,5
+455.3099542,0,0,1,1,0.928,1,left,1,0.242005351180506,0.152005351180506,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.96000000111962e-05,1,0.31097990288763,5
+455.9840596,0,0,NaN,1,0.918,0,left,1,0.241694249000674,0.151694249000674,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,2.59000000255583e-05,1,0.325659715040101,5
+456.6267642,0,0,NaN,1,0.914,0,left,1,0.242766781088352,0.152766781088352,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.10000000417676e-05,1,0.330488744135107,5
+457.2409872,0,1,NaN,1,0.914,0,left,1,0.243645993195045,0.153645993195045,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,4.03000000233078e-05,1,0.325411585534381,5
+458.0184303,0,1,0,1,0.913,1,left,1,0.243776557527585,0.153776557527585,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,5.69999999697757e-05,1,0.316753105746416,5
+458.8874983,0,1,0,1,0.914,1,left,1,0.241906283506651,0.151906283506651,1,1,1,2,WORK,1,cn,cn,cn,,,0,none,,1,0,,3.62999999765634e-05,1,0.317809329630205,5
+459.6967525,0,1,0,1,0.914,1,left,1,0.240211760744556,0.150211760744556,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.30000000303698e-05,1,0.318873971970119,6
+460.5267018,0,1,0,1,0.914,1,left,1,0.242715430082226,0.152715430082226,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,0.000165600000002541,1,0.318736474222829,6
+461.1741982,0,1,0,1,0.914,1,left,1,0.2416228879887,0.1516228879887,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.01999999819236e-05,1,0.31682692436092,6
+461.8690458,0,1,0,1,0.914,1,left,1,0.23895840642254,0.14895840642254,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,6.40000000089458e-05,1,0.315405580166236,6
+462.5105116,0,1,0,1,0.914,1,left,1,0.240095481007036,0.150095481007036,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.42999999563654e-05,1,0.317412759667913,6
+463.2357718,0,1,0,1,0.914,1,left,1,0.241519460913608,0.151519460913608,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,6.8300000009458e-05,1,0.317520723733113,6
+463.9757015,0,1,0,1,0.913,1,left,1,0.241851876155634,0.151851876155634,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.76000000098975e-05,1,0.317485070515135,6
+464.6352177,0,1,0,1,0.914,1,left,1,0.239008012417994,0.149008012417994,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.43000000132088e-05,1,0.318259343931957,6
+465.2320298,0,1,0,1,0.914,1,left,1,0.237942745214054,0.147942745214054,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.83000000283573e-05,1,0.318070746847301,6
+465.8473909,0,1,0,1,0.913,1,left,1,0.266357241313241,0.176357241313241,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.59999999911997e-05,1,0.317639512655463,6
+466.4511281,0,1,0,1,0.918,1,left,1,0.260849324323449,0.170849324323449,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,6.46999999958098e-05,1,0.319025312475358,6
+467.0838027,0,1,0,1,0.923,1,left,1,0.252146108437152,0.162146108437152,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.82999999715139e-05,1,0.320242673608625,6
+467.9097463,0,1,0,1,0.923,1,left,1,0.247196561464758,0.157196561464758,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,4.69999999950232e-05,1,0.318426820478426,6
+468.5244545,0,1,0,1,0.923,1,left,1,0.243528786799425,0.153528786799425,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,5.70999999922606e-05,1,0.318855453144524,6
+469.1079937,0,1,0,1,0.923,1,left,1,0.243693988436317,0.153693988436317,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,6.20000000139953e-05,1,0.31537881983418,6
+469.8222898,0,1,0,1,0.923,1,left,1,0.24125689627449,0.15125689627449,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,7.41000000061831e-05,1,0.317062801350143,6
+470.5105093,0,1,0,1,0.923,1,left,1,0.241310277443792,0.151310277443792,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.82000000058724e-05,1,0.316385808784149,6
+471.1122028,0,1,0,1,0.923,1,left,1,0.242278249126908,0.152278249126908,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,2.99999999811007e-05,1,0.315127101341665,6
+471.8187273,0,1,0,1,0.923,1,left,1,0.241961587860553,0.151961587860553,1,1,1,2,WORK,1,cs,cs,cs,,,0,none,,1,0,,3.27999999854001e-05,1,0.31083608220411,6
+472.6146714,0,1,0,1,0.927,1,left,1,0.231348957205344,0.141348957205344,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,7.08000000031461e-05,1,0.317648138669189,6
+473.2769604,0,0,0,1,0.927,1,left,1,0.246430152375881,0.156430152375881,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.74000000028718e-05,1,0.307491625902235,6
+473.9760738,0,0,0,1,0.927,1,left,1,0.234303841197706,0.144303841197706,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.52999999854364e-05,1,0.344590249426765,6
+474.5989519,0,0,0,1,0.927,1,left,1,0.224377940092158,0.134377940092158,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,3.86999999477666e-05,1,0.320663078635505,6
+475.4660057,0,0,0,1,0.927,1,left,1,0.221061303714603,0.131061303714603,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,0.000537000000008447,1,0.312649756116969,6
+476.252074,0,0,0,1,0.927,1,left,1,0.220480407292802,0.130480407292802,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,6.96000000175445e-05,1,0.313463538549542,6
+477.175107,0,0,0,1,0.927,1,left,1,0.220345433354086,0.130345433354086,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,0.000107500000012806,1,0.310382763696698,6
+477.8277953,0,0,0,1,0.927,1,left,1,0.217434265928809,0.127434265928809,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,3.78999999952612e-05,1,0.310468049885975,6
+478.5549317,0,0,0,1,0.927,1,left,1,0.216428186704043,0.126428186704043,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,4.66000000187705e-05,1,0.310250189363359,6
+479.3043486,0,0,0,1,0.927,1,left,1,0.216481315590977,0.126481315590977,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,2.91000000061103e-05,1,0.309733014062111,6
+479.9066966,0,0,0,1,0.927,1,left,1,0.214864841237463,0.124864841237463,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,0.000113499999997657,1,0.309416822425672,6
+480.5357044,0,0,0,1,0.927,1,left,1,0.210955492936306,0.120955492936306,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,5.47999999866988e-05,1,0.309676960718746,6
+481.2077879,0,0,0,1,0.927,1,left,1,0.209752949919661,0.119752949919661,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,5.37000000235821e-05,1,0.309511453746061,6
+481.9272272,0,0,0,1,0.927,1,left,1,0.212164488074701,0.122164488074701,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,3.92000000033477e-05,1,0.309270318653439,6
+482.5471997,0,0,0,1,0.927,1,left,1,0.210806498951052,0.120806498951052,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,3.07000000248081e-05,1,0.307255414923806,6
+483.2220758,0,0,0,1,0.927,1,left,1,0.20466289355914,0.11466289355914,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,7.65000000342297e-05,1,0.309575467374274,6
+483.9611338,0,0,0,1,0.927,1,left,1,0.209077138874627,0.119077138874627,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,4.23000000182583e-05,1,0.309437457331849,6
+484.6096238,0,0,0,1,0.927,1,left,1,0.212338409149169,0.122338409149169,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,4.84000000255946e-05,1,0.309232744061815,6
+485.1920641,0,0,0,1,0.933,1,left,1,0.221541576233447,0.131541576233447,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,4.11999999982982e-05,1,0.309791704214299,6
+485.8102576,0,1,0,1,0.933,1,left,1,0.221439856394462,0.131439856394462,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,4.63999999738007e-05,1,0.309700016144656,6
+486.4047184,0,1,0,1,0.933,1,left,1,0.222473121972071,0.132473121972071,1,1,1,2,WORK,1,cn,cs,cs,,fatigue_slow_collaborative,1,none,,1,0,,0.000211299999989478,1,0.310525264672619,6
+487.0181357,0,1,0,1,0.933,1,left,1,0.221171630187961,0.131171630187961,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,4.31000000276072e-05,1,0.311507014367253,6
+487.6266831,0,1,0,1,0.933,1,left,1,0.219270791488515,0.129270791488515,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.05999999518281e-05,1,0.311946549908794,6
+488.521286,0,1,0,1,0.933,1,left,1,0.222439699694097,0.132439699694097,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,6.7099999967013e-05,1,0.31302119736529,6
+489.3124645,0,1,0,1,0.933,1,left,1,0.224325700712156,0.134325700712156,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000140799999996943,1,0.314618928229056,6
+490.2663532,0,1,0,1,0.933,1,left,1,0.22392011968557,0.13392011968557,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.09000000129345e-05,1,0.280750227070255,6
+491.0771685,0,1,0,1,0.933,1,left,1,0.22491943001884,0.13491943001884,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,6.73000000119828e-05,1,0.283546856797955,6
+491.9433363,0,1,0,1,0.933,1,left,1,0.223324114237581,0.133324114237581,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.21000000048844e-05,1,0.29375998706427,6
+492.687559,0,1,0,1,0.933,1,left,1,0.226256690508811,0.136256690508811,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,6.02000000071712e-05,1,0.334049666965857,6
+493.4827133,0,1,NaN,1,0.921,0,left,1,0.229153660236968,0.139153660236968,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.49000000091837e-05,1,0.365616670845299,6
+494.4772514,0,1,NaN,1,0.909,0,left,1,0.229861393017618,0.139861393017618,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.72999999740387e-05,1,0.368002635860125,6
+495.4372516,0,1,NaN,1,0.909,0,left,1,0.231354295399934,0.141354295399934,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.91000000377062e-05,1,0.36986624609445,6
+496.142071,0,1,NaN,1,0.909,0,left,1,0.232240521873337,0.142240521873337,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,2.53999999699772e-05,1,0.373674805144794,6
+497.1315447,0,2,NaN,1,0.909,0,left,1,0.233850807139937,0.143850807139937,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,4.21000000301319e-05,1,0.378338763543996,10
+498.1330886,0,2,NaN,1,0.909,0,left,1,0.233864939655349,0.143864939655349,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,0.000279599999998936,1,0.386340083346266,10
+498.8060098,0,2,NaN,1,0.909,0,left,1,0.233690928364795,0.143690928364795,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,6.02000000071712e-05,1,0.373220377257191,10
+499.5048731,0,2,NaN,1,0.904,0,left,1,0.234246408723805,0.144246408723805,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,4.0099999978338e-05,1,0.362628928796366,10
+500.1281855,0,2,0,1,0.904,1,left,1,0.234952250468047,0.144952250468047,1,1,1,2,WORK,1,cs,cs,ps,stop_held_until_verified_clearance,,1,none,,1,0,,6.06999999490654e-05,1,0.350824671310328,10
+500.9069216,0,2,0,1,0.908,1,left,1,0.233690928364795,0.143690928364795,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.45999999985725e-05,1,0.350419448661172,6
+501.8439741,0,2,0,1,0.914,1,left,1,0.234414184724389,0.144414184724389,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000258400000006986,1,0.35555001054704,6
+502.5505448,0,2,1,1,0.903,1,left,1,0.232742368295934,0.142742368295934,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,4.16000000313943e-05,1,0.362591078213461,6
+503.2036714,0,2,NaN,1,0.89,0,left,1,0.23145057787787,0.14145057787787,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.40999999934866e-05,1,0.368099592501812,6
+503.876351,0,2,NaN,1,0.89,0,left,1,0.230618190956394,0.140618190956394,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.67999999816493e-05,1,0.364203212506425,6
+504.602658,0,2,NaN,1,0.889,0,left,1,0.230116340141242,0.140116340141242,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000126600000044164,1,0.362374585201556,6
+505.3347136,0,2,NaN,1,0.894,0,left,1,0.230177735673979,0.140177735673979,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,2.97999999929743e-05,1,0.35549106880483,6
+505.9490138,0,2,NaN,1,0.894,0,left,1,0.230958048138618,0.140958048138618,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,2.43000000068605e-05,1,0.353301033114821,10
+506.7551242,0,2,NaN,1,0.894,0,left,1,0.231188191739976,0.141188191739976,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,0.000265300000023672,1,0.354860648705939,10
+507.5018356,0,2,NaN,1,0.902,0,left,1,0.230623697828302,0.140623697828302,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,6.60999999695377e-05,1,0.354516953050203,10
+508.172578,0,2,NaN,1,0.902,0,left,1,0.230970431007954,0.140970431007954,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,4.13999999864245e-05,1,0.352250337118362,10
+508.8362326,0,2,NaN,1,0.902,0,left,1,0.230576343105705,0.140576343105705,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,5.27000000261069e-05,1,0.352236809547214,10
+509.5467288,0,2,NaN,1,0.911,0,left,1,0.230855149390262,0.140855149390262,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,0.000168299999984356,1,0.35311536358533,10
+510.2810712,0,2,NaN,1,0.911,0,left,1,0.231497926556589,0.141497926556589,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,0.000155799999959072,1,0.352450195063076,10
+510.9038138,0,2,NaN,1,0.922,0,left,1,0.230181580496789,0.140181580496789,1,1,1,2,WORK,1,cs,cs,ps,risky_distraction,,1,none,,1,0,,3.870000000461e-05,1,0.338576328174313,10
+511.5637709,0,2,0,1,0.918,1,left,1,0.23056291982884,0.14056291982884,1,1,1,2,WORK,1,cs,cs,ps,stop_held_until_verified_clearance,,1,none,,1,0,,4.02000000008229e-05,1,0.328594537386123,10
+512.1572942,0,2,0,1,0.917,1,left,1,0.230405750796285,0.140405750796285,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,7.82000000754124e-05,1,0.335328063245533,6
+513.0013678,0,2,0,1,0.917,1,left,1,0.230354965216728,0.140354965216728,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000199500000007902,1,0.33567466392327,6
+513.705007,0,2,0,1,0.918,1,left,1,0.231625862113884,0.141625862113884,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,7.61000000011336e-05,1,0.334714998170085,6
+514.3150859,0,2,0,1,0.918,1,left,1,0.232185658471836,0.142185658471836,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,4.04999999545907e-05,1,0.332990705575997,6
+515.1052571,0,2,0,1,0.923,1,left,1,0.242174668369753,0.152174668369753,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,6.77000000450789e-05,1,0.332432760118494,6
+515.8284393,0,2,0,1,0.932,1,left,1,0.254090948284271,0.164090948284271,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,2.74999999874126e-05,1,0.332377646661144,6
+516.704483,0,2,0,1,0.943,1,left,1,0.272049554309504,0.182049554309504,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,7.34999999849606e-05,1,0.330940493140383,6
+517.5642362,0,2,0,1,0.933,1,left,1,0.271642154313354,0.181642154313354,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.7800000035968e-05,1,0.330269480878873,6
+518.4958633,0,2,0,1,0.933,1,left,1,0.271029039034565,0.181029039034565,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,6.12999999702879e-05,1,0.325397556843932,6
+519.5597768,0,2,0,1,0.913,1,left,1,0.268179753150755,0.178179753150755,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000132799999960298,1,0.327475968583956,6
+520.1919812,0,2,0,1,0.913,1,left,1,0.269923581778251,0.179923581778251,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.60999999379419e-05,1,0.329181621601207,6
+521.2370543,0,2,0,1,0.913,1,left,1,0.269965275544837,0.179965275544837,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,8.70999999733613e-05,1,0.324546468167503,6
+522.044506,0,2,0,1,0.913,1,left,1,0.269513450499228,0.179513450499228,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,4.35999999126579e-05,1,0.322164771506755,6
+522.7352954,0,2,0,1,0.913,1,left,1,0.268848860886558,0.178848860886558,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,4.82000000374683e-05,1,0.321008442256586,6
+523.606862,0,2,0,1,0.913,1,left,1,0.269275138102276,0.179275138102276,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.98999999333682e-05,1,0.31725866418429,6
+524.3351301,0,2,0,1,0.914,1,left,1,0.268531357573003,0.178531357573003,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,5.09000000192827e-05,1,0.316129941637928,6
+525.1624861,0,2,0,1,0.913,1,left,1,0.227156575955881,0.137156575955881,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,9.9299999988034e-05,1,0.321841871110643,6
+525.7717796,0,2,0,1,0.913,1,right,1,0.316039387600203,0.226039387600203,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,3.16999999085965e-05,0,0.315473383816671,10
+526.7280192,0,2,0,1,0.914,1,left,1,0.156686502290402,0.0666865022904015,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000206299999945259,1,0.314417509054442,6
+527.5478514,0,1,0,1,0.914,1,left,1,0.155185856314292,0.0651858563142917,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,,0.000241400000049907,1,0.314666935028134,6
+528.1843022,0,1,0,1,0.913,1,left,1,0.152081721452645,0.0620817214526453,1,1,1,2,WORK,1,cs,cs,cs,,,1,none,,1,0,escape,0.00035000000002583,1,0.320899548145522,6

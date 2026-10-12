@@ -1,0 +1,28 @@
+# ---- Personal / large experiment data (share separately, anonymized) ----
+POMDP model/videos/
+POMDP model/robot_camera_calibration_images/
+*.mp4
+*.avi
+*.mat
+*.tif
+*.fig
+
+# ---- Infrastructure notes: campus IP, MAC, SSH user, gateway details ----
+Lite6_Ufactory.md
+mental_fatigue_algorithm/Lite6_Ufactory.md
+
+# ---- Logs ----
+**/Log/
+*_log.txt
+*.log
+
+# ---- Python / editor caches ----
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# ---- Old backup snapshots ----
+*.bak_*
+POMDP model/workstation_preview/before_*/
+POMDP model/workstation_preview/*_before_*

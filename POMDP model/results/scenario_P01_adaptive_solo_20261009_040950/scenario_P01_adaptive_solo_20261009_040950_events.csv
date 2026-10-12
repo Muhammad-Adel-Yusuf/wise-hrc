@@ -1,0 +1,20 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+2.28730489999998,action change,solo normal,
+22.4816905,action change,solo slow,
+31.3984005,action change,solo normal,
+51.9948514,action change,solo slow,
+57.2840111,action change,solo normal,
+76.1839402000001,action change,solo slow,
+84.3023113,action change,solo normal,
+102.5730848,action change,solo slow,solo_separation_not_verified_slow
+107.2727304,action change,solo normal,
+126.5268266,action change,solo slow,
+136.878989,action change,solo normal,
+154.9888665,action change,solo slow,solo_separation_not_verified_slow
+158.9612207,action change,solo normal,
+177.3121159,action change,solo slow,
+183.4136954,action change,solo normal,
+202.1549513,action change,solo slow,
+210.9352332,action change,task-layer move,transfer_monitored
+210.9352332,STOP (X),task-layer move,transfer_monitored

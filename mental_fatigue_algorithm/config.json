@@ -1,0 +1,469 @@
+{
+  "_notice": "Literature-informed PROTOTYPE parameters; they require experimental validation in the target workplace. Vision-based risk estimate, not a medical diagnosis. All values in task_fatigue, visual_fatigue, attention_fatigue and fatigue_fusion are INITIAL ENGINEERING PARAMETERS requiring experimental validation.",
+  "camera": {
+    "color_width": 1280,
+    "color_height": 720,
+    "depth_width": 640,
+    "depth_height": 576,
+    "fps": 30,
+    "color_formats": [
+      "MJPG",
+      "RGB",
+      "BGR",
+      "YUYV",
+      "NV12"
+    ],
+    "use_depth": true,
+    "prefer_hw_d2c": true,
+    "enable_frame_sync": true,
+    "frame_timeout_ms": 200,
+    "depth_min_mm": 200.0,
+    "depth_max_mm": 4000.0,
+    "max_depth_age_s": 0.5,
+    "max_depth_skew_s": 0.2
+  },
+  "vision": {
+    "backend": "face_hand",
+    "face_model_path": "models/face_landmarker.task",
+    "face_model_url": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/latest/face_landmarker.task",
+    "hand_model_path": "models/hand_landmarker.task",
+    "hand_model_url": "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task",
+    "pose_model_path": "models/pose_landmarker_lite.task",
+    "pose_model_url": "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/latest/pose_landmarker_lite.task",
+    "max_consecutive_failures": 30,
+    "model_path": "models/holistic_landmarker.task",
+    "model_url": "https://storage.googleapis.com/mediapipe-models/holistic_landmarker/holistic_landmarker/float16/latest/holistic_landmarker.task",
+    "auto_download": true,
+    "inference_width": 640,
+    "min_face_detection_confidence": 0.15,
+    "min_face_landmarks_confidence": 0.15,
+    "min_pose_detection_confidence": 0.5,
+    "min_pose_landmarks_confidence": 0.5,
+    "min_hand_landmarks_confidence": 0.5,
+    "max_eye_yaw_deg": 55.0,
+    "max_mouth_yaw_deg": 60.0,
+    "eye_pitch_range_deg": [
+      -55.0,
+      45.0
+    ],
+    "max_reprojection_error_px": 8.0,
+    "ear_valid_range": [
+      0.05,
+      0.6
+    ],
+    "mar_valid_range": [
+      0.0,
+      2.0
+    ],
+    "depth_roi_radius_px": 8,
+    "depth_min_valid_fraction": 0.2,
+    "depth_min_points": 2,
+    "depth_max_spread_mm": 80.0,
+    "depth_hold_s": 0.5,
+    "parallel": true,
+    "face_max_hz": 10.0,
+    "threaded_camera": true,
+    "hand_max_hz": 15,
+    "pose_max_hz": 0.0,
+    "opencv_threads": 2
+  },
+  "baseline": {
+    "duration_s": 60.0,
+    "min_valid_s": 20.0,
+    "ear_percentile": 75.0,
+    "mar_percentile": 30.0
+  },
+  "attention": {
+    "calibration_file": "calibration.json",
+    "capture_s": 5.0,
+    "capture_min_samples": 15,
+    "capture_timeout_s": 15.0,
+    "working_area_margin_deg": 5.0,
+    "membership_threshold": 0.35,
+    "ranges": {
+      "k_core": 2.5,
+      "fade_k": 1.0,
+      "min_core_deg": {
+        "yaw": 5.0,
+        "pitch": 4.0
+      },
+      "max_core_deg": {
+        "yaw": 25.0,
+        "pitch": 10.0
+      },
+      "min_fade_deg": 3.0,
+      "max_fade_deg": 10.0
+    },
+    "switch_margin": 0.25,
+    "overrides": {},
+    "stations": {
+      "assembly": {
+        "theta_min": 8.0,
+        "theta_max": 25.0,
+        "phi_min": 8.0,
+        "phi_max": 20.0
+      },
+      "laptop": {
+        "theta_min": 8.0,
+        "theta_max": 25.0,
+        "phi_min": 8.0,
+        "phi_max": 20.0
+      },
+      "storage": {
+        "theta_min": 8.0,
+        "theta_max": 25.0,
+        "phi_min": 8.0,
+        "phi_max": 20.0
+      }
+    }
+  },
+  "eye_norm": {
+    "enabled": true,
+    "window_s": 120.0,
+    "min_valid_s": 15.0,
+    "percentile": 75.0,
+    "scale_min": 0.6,
+    "scale_max": 1.8,
+    "pitch_bin_deg": 10.0,
+    "neighbor_bins": 2
+  },
+  "body_presence": {
+    "enabled": true,
+    "run_only_when_face_lost": true,
+    "min_visibility": 0.5,
+    "nose_visible_min": 0.5,
+    "ear_asymmetry": 0.5,
+    "turn_ratio": 0.35,
+    "confirm_s": 0.8,
+    "suppress_when_hands_active": false
+  },
+  "physical": {
+    "enabled": true,
+    "package_dir": "../physical_fatigue_model",
+    "params_file": "physical_params.json",
+    "window_s": 30.0,
+    "update_s": 2.0,
+    "pose_every_n": 2,
+    "min_visibility": 0.5,
+    "absent_is_recovery": true,
+    "bands": [
+      0.3,
+      0.6
+    ],
+    "history_min": 30.0,
+    "estimator": {},
+    "baseline_file": "physical_baseline.json",
+    "neutral_capture_s": 20.0,
+    "start_borg": null,
+    "baseline": {
+      "max_trunk_sd_deg": 12.0
+    }
+  },
+  "work_posture": {
+    "enabled": true,
+    "file": "work_posture.json",
+    "capture_s": 6.0,
+    "capture_min_samples": 40,
+    "capture_min_hand_samples": 20,
+    "capture_timeout_s": 25.0,
+    "hold_s": 0.5,
+    "decision_s": 1.0,
+    "max_engaged_s": 30.0,
+    "step_context_s": 60.0,
+    "min_hands_in_zone": 2,
+    "zone_margin_sw": 0.35,
+    "position_tol_sw": 0.6,
+    "scale_tol": 0.3,
+    "hand_speed_min_sw_s": 0.3,
+    "hand_hold_s": 1.5,
+    "condition_gap_s": 0.3
+  },
+  "pomdp_bridge": {
+    "enabled": true,
+    "host": "127.0.0.1",
+    "port": 5005,
+    "send_hz": 30.0,
+    "pose_every_n": 2,
+    "arm_hold_s": 0.4,
+    "palm_from_wrist_m": 0.08,
+    "min_visibility": 0.4,
+    "depth_radius_px": 4,
+    "hand_match_px": 80,
+    "workspace_file": "../POMDP model/workspace_calibration.json",
+    "real_robot": {
+      "enabled": true,
+      "poll_hz": 10.0,
+      "max_age_s": 0.3
+    },
+    "calibration": {
+      "object_window_px": 250,
+      "robot_height_override_m": 0.0,
+      "object_min_height_m": 0.015,
+      "robot_max_radius_m": 0.06,
+      "storage_max_radius_m": 0.15,
+      "handover_height_m": 0.2,
+      "handover_offset_m": 0.1,
+      "storage_above_object_m": 0.05,
+      "collab_height_m": 0.16,
+      "area_height_m": 0.25,
+      "safe_clearance_m": 0.15,
+      "reach_max_m": 0.45,
+      "collab_radius_m": 0.35,
+      "assist_radius_m": 0.065,
+      "prohibit_radius_m": 0.01
+    }
+  },
+  "collaboration": {
+    "start_active": true,
+    "nobody_notice_s": 3.0
+  },
+  "hand_activity": {
+    "enabled": true,
+    "speed_min_fw_s": 0.5,
+    "hold_s": 2.0
+  },
+  "perclos": {
+    "window_s": 60.0,
+    "grace_min_valid_s": 5.0,
+    "ear_initial_threshold": 0.2,
+    "ear_threshold_ratio": 0.67,
+    "ear_threshold_min": 0.12,
+    "ear_threshold_max": 0.28,
+    "reopen_hysteresis": 1.1,
+    "min_valid_s": 18.0,
+    "limits": {
+      "low_below": 0.15,
+      "high_at": 0.3
+    }
+  },
+  "closure": {
+    "blink_max_s": 0.2,
+    "long_blink_max_s": 0.5,
+    "prolonged_max_s": 1.0,
+    "count_min_s": 0.5,
+    "window_s": 60.0,
+    "weight_prolonged": 1.0,
+    "weight_microsleep": 2.0,
+    "gap_tolerance_s": 0.15
+  },
+  "yawn": {
+    "window_s": 300.0,
+    "delta_abs": 0.3,
+    "z_score": 6.0,
+    "sigma_floor": 0.02,
+    "release_fraction": 0.5,
+    "min_duration_s": 1.5,
+    "max_duration_s": 10.0,
+    "min_closed_before_s": 0.3,
+    "arm_hold_s": 2.0,
+    "plateau_min_fraction": 0.6,
+    "max_cv": 0.35,
+    "gap_tolerance_s": 0.5,
+    "refractory_s": 5.0
+  },
+  "nod": {
+    "window_s": 300.0,
+    "baseline_window_s": 20.0,
+    "baseline_lag_s": 3.0,
+    "baseline_min_s": 5.0,
+    "excursion_deg": 15.0,
+    "return_fraction": 0.4,
+    "min_duration_s": 0.5,
+    "max_duration_s": 3.0,
+    "max_yaw_change_deg": 20.0,
+    "exclude_workstation_membership": 0.7,
+    "confirm_wait_s": 1.0,
+    "unconfirmed_weight": 0.5,
+    "confirmed_weight": 1.0,
+    "gap_tolerance_s": 0.5,
+    "refractory_s": 2.0
+  },
+  "rub": {
+    "window_s": 300.0,
+    "near_norm_distance": 0.35,
+    "min_duration_s": 0.7,
+    "min_reversals": 2,
+    "min_amplitude_norm": 0.08,
+    "gap_tolerance_s": 0.3,
+    "occlusion_tail_s": 0.4,
+    "refractory_s": 2.0,
+    "face_width_height_floor": 0.55
+  },
+  "task_fatigue": {
+    "medium_threshold": 0.4,
+    "high_threshold": 0.7,
+    "accumulation_rate": 0.005,
+    "recovery_rate": 0.03,
+    "recovery_score_threshold": 0.1,
+    "weights": {
+      "backtracking": 0.2,
+      "error": 0.45,
+      "prolonged_viewing": 0.15,
+      "hesitation": 0.2
+    },
+    "window_s": 60.0,
+    "big_backward_steps": 2,
+    "review_min_dwell_s": 2.0,
+    "error_min_backward_steps": 1,
+    "error_unit": 1.0,
+    "viewed_min_s": 2.0,
+    "attempt_min_assembly_s": 3.0,
+    "backtracking_full_units": 4.0,
+    "unviewed_backward_unit": 0.5,
+    "repeated_return_unit": 0.5,
+    "error_full_units": 2.0,
+    "corrective_unit": 0.5,
+    "default_normal_duration_s": 30.0,
+    "calibration_min_instructions": 3,
+    "duration_factor": 1.5,
+    "normal_view_s": 10.0,
+    "prolonged_view_full_s": 30.0,
+    "hesitation_min_alternations": 3,
+    "hesitation_full_s": 30.0
+  },
+  "visual_fatigue": {
+    "medium_threshold": 0.4,
+    "high_threshold": 0.7,
+    "microsleep_growth": 1.2,
+    "accumulation_rate": 0.007,
+    "recovery_rate": 0.03,
+    "recovery_score_threshold": 0.1,
+    "smoothing_tau_s": 4.0,
+    "weights": {
+      "microsleep": 0.25,
+      "yawn": 0.4,
+      "nod": 0.15,
+      "eye_rub": 0.1,
+      "perclos": 0.1
+    },
+    "normalization": {
+      "perclos": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.15,
+          0.35
+        ],
+        [
+          0.3,
+          1.0
+        ]
+      ],
+      "closure": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.4
+        ],
+        [
+          3.0,
+          1.0
+        ]
+      ],
+      "yawn": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.4
+        ],
+        [
+          2.0,
+          0.7
+        ],
+        [
+          3.0,
+          1.0
+        ]
+      ],
+      "nod": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.5
+        ],
+        [
+          2.0,
+          1.0
+        ]
+      ],
+      "rub": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.4
+        ],
+        [
+          3.0,
+          1.0
+        ]
+      ]
+    },
+    "single_microsleep_forces_high": false,
+    "microsleep_high_score": 0.6
+  },
+  "attention_fatigue": {
+    "medium_threshold": 0.4,
+    "high_threshold": 0.99,
+    "sustained_threshold_s": 2.0,
+    "high_threshold_s": 3.0,
+    "sustained_growth": 0.0,
+    "accumulation_rate": 0.007,
+    "recovery_rate": 0.03,
+    "recovery_score_threshold": 0.1,
+    "brief_window_s": 60.0,
+    "brief_full_count": 5.0,
+    "brief_weight": 0.5,
+    "history_window_s": 60.0,
+    "reentry_debounce_s": 0.3,
+    "unknown_tolerance_s": 1.0,
+    "min_record_s": 0.3,
+    "unverified_enabled": true,
+    "unverified_after_s": 5.0,
+    "unverified_score": 0.5
+  },
+  "fatigue_fusion": {
+    "weights": {
+      "task": 0.25,
+      "visual": 0.35,
+      "attention": 0.4
+    },
+    "medium_threshold": 0.4,
+    "high_threshold": 0.7,
+    "medium_persistence_s": 10.0,
+    "high_persistence_s": 10.0,
+    "recovery_threshold": 0.25,
+    "recovery_persistence_s": 5.0,
+    "use_max_rule": true,
+    "attention_sustained_bypasses_persistence": true,
+    "report_unknown_as_minus_one": false
+  },
+  "quality": {
+    "window_s": 60.0,
+    "min_ratio": 0.8,
+    "max_gap_s": 0.5,
+    "min_observed_s": 10.0
+  },
+  "logging": {
+    "csv_path": "logs/fatigue_log.csv",
+    "interval_s": 5.0
+  },
+  "display": {
+    "window_width": 1280,
+    "show_depth": true,
+    "ui_max_hz": 5.0
+  }
+}

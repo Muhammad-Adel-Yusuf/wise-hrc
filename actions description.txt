@@ -1,0 +1,41 @@
+action0: the robot should go from its current location to the storage 
+pos0:[-24,53.4,142.2,3.5,73.9,-73.2]
+pos1:[-32.3,63.2,134,5.4,59.1,-88.7]
+pos2:[-30.4,72.2,134.4,4.2,25.7,-92]
+for action 3: approach
+pos1:[-32.3,63.2,134,5.4,59.1,-88.7]
+pos2:[-30.4,72.2,134.4,4.2,25.7,-92]
+pos3:[-6,14.4,85.5,176.9,-51.2,-204.9]
+pos4:[[27.4,13.2,89.5,181.9,-44.8,-199.1]
+note that pos4 is the handling point and pos3 is a pre handling point in order to help the robot to follow these points
+also pos1 and pos2 is a retract from the storage because always the robot will approach after it grasps the tool from the storage
+for action1 and action2:
+the robot should do solo work in 2 speeds slow and fast
+and the robot should go between these points
+from any place, the robot should go to pos5 then pos6 then pos7 then pos8 then go back to pos7 then pos6 then pos5
+pos5:[-57.3,50.6,96.6,179.7,-47,-255.9]
+pos6:[-42.6,47.2,108.3,193.4,-68.4,-265.4]
+pos7:[-34.5,52.6,108.3,199.4,-38.3,-279.4]
+pos8:[-35.2,59.9,111.8,238.2,-18.6,-329.7]
+
+for action4: the robot should stop at the handling point waiting for the human to grasp
+action5: the robot should go to pos12 from its initial poisition wait there for 30 sec then go to pos13 then goes back to pos12 till the human stop the collaboration
+during going to pos4 at the first time the robot should move between these points 
+pos9:[-4.9, 20.3, 84.7,196.5,-57.7,-252.4]
+pos10:[15.9,32.7,84.3,196.9,-40.1,-228.9]
+pos11:[41.9,46.7,75.1,202.1,5.9,-184.5]
+pos12:[44.5,46.7,74.9,213.2,43,-191]
+then for the subsequent actions should be between pos12 and pos13 only 
+pos13:[44.4,46.7,74.9,180,-15.4,-192.4]
+
+action5: should be in normal speed and action6: is the same as action5 but in low speed
+action7: the robot should stop at its current position during the collaborative task
+action8: the robot should stop at its current position
+action9:the robot should go from its current poistion to the safe zone at pos16
+but the robot ca use these trajectory points in between
+pos14:[18,34.3,78.9,186,-43.7,-221.2]
+pos15:[2.8,6.2,79.8,182.1,-70,-215]
+pos16:[1.8,-47.9,46.2,180,-86.9,-205.3]
+
+action10: the robot should stop at its current location
+action11: when the robot reach the safe zone the robot should stop there

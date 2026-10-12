@@ -1,0 +1,7 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+36.1927703,action change,collab. normal,
+82.139875,action change,collab. slow,low_human_state_confidence_slow
+93.5657383,action change,collab. hold,
+273.7634428,protective stop (sensing),protective stop,safety_unverified:stale_geometry
+273.7634428,action change,protective stop,safety_unverified:stale_geometry

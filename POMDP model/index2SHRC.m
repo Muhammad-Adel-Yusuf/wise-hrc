@@ -1,0 +1,11 @@
+function S = index2SHRC(i)
+% inverse of S2indexHRC, S = [M I H Fp Fm A Z V R]
+S(1) = rem(floor2(i,3^5*4*2*6),3);
+S(2) = rem(floor2(i,3^5*4*2),6) + 1;
+S(3) = rem(floor2(i,3^5*4),2);
+S(4) = rem(floor2(i,3^4*4),3);
+S(5) = rem(floor2(i,3^3*4),3);
+S(6) = rem(floor2(i,3^2*4),3);
+S(7) = rem(floor2(i,3^2),4);
+S(8) = rem(floor2(i,3),3);
+S(9) = rem(floor2(i,1),3);

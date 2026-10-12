@@ -1,0 +1,44 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+4.50485689999994,protective stop (proximity),protective stop,active_interaction_risk
+4.50485689999994,action change,protective stop,active_interaction_risk
+9.04159499999992,protective stop released,task-layer move,transfer_monitored
+9.04159499999992,action change,task-layer move,transfer_monitored
+10.2222762,action change,collab. normal,
+11.9084409,action change,collab. hold,
+12.5050636,action change,collab. normal,
+15.7800523,action change,collab. hold,
+16.5254622,action change,collab. normal,
+24.4212372,action change,collab. hold,
+25.5219844999999,action change,collab. normal,
+26.7117238,action change,collab. hold,
+27.2656595,action change,collab. normal,
+30.1167025999999,action change,collab. hold,
+30.6995446999999,action change,collab. normal,
+33.2063221999999,action change,collab. hold,
+33.8352034,action change,collab. normal,
+35.3269624999999,protective stop (sensing),protective stop,safety_unverified:no_hand_from_camera
+35.3269624999999,action change,protective stop,safety_unverified:no_hand_from_camera
+46.3971567,protective stop released,collab. hold,
+46.3971567,action change,collab. hold,
+48.9774881,protective stop (proximity),protective stop,active_interaction_risk
+48.9774881,action change,protective stop,active_interaction_risk
+79.5824372,mode -> assistive,protective stop,stop_held_until_verified_clearance
+85.3986695,protective stop released,task-layer move,transfer_monitored
+85.3986695,action change,task-layer move,transfer_monitored
+91.0602967,action change,wait at safe position,
+108.9691785,tool request (T),task-layer move,transfer_monitored
+108.9691785,action change,task-layer move,transfer_monitored
+115.4440728,protective stop (sensing),protective stop,safety_unverified:no_hand_from_camera
+115.4440728,action change,protective stop,safety_unverified:no_hand_from_camera
+116.5375256,protective stop released,task-layer move,transfer_monitored
+116.5375256,action change,task-layer move,transfer_monitored
+117.6907032,action change,assistive hold,
+122.5821789,protective stop (sensing),protective stop,safety_unverified:no_hand_from_camera
+122.5821789,action change,protective stop,safety_unverified:no_hand_from_camera
+123.8064556,protective stop released,assistive hold,handover_contact_hold_stationary
+123.8064556,action change,assistive hold,handover_contact_hold_stationary
+155.2830951,tool taken,assistive hold,
+155.8463034,rest warning,task-layer move,transfer_monitored
+155.8463034,action change,task-layer move,transfer_monitored
+159.2989483,action change,wait at safe position,

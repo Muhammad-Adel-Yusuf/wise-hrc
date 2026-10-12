@@ -1,0 +1,3 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+22.7962567,STOP (X),task-layer move,transfer_monitored

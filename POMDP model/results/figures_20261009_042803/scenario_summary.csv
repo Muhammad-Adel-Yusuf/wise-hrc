@@ -1,0 +1,5 @@
+scenario,duration_s,normal_pct,slow_pct,stopped_pct,protective_stop_pct,mean_cmd_speed_dps,min_dist_m,median_dist_m,protective_stops,lookaways_ge_2s,max_fatigue_level,max_mental_score,speed_reduced_by
+(I) Collaborative,547.59633005,40.6325518068545,46.7225738029761,0,12.6448743901694,13.9752252252252,0.132067634187942,0.225709791546579,2,0,1,0.497,Planner (belief) 211 s; Attention 63 s; Low confidence 32 s; Distance 6 s
+(II) Assistive,93.52454085,0,54.7407370137332,45.2592629862668,0,14.2273170731707,0.292844976053884,0.608909073671923,0,0,1,0.207,Fatigue level 30 s; Planner (belief) 14 s
+(III) Solo,212.3870998,71.7640873873828,28.2359126126172,0,0,18.1321678321678,0.24904919192802,0.64579856766642,0,0,1,0.298,Fatigue + distance 33 s; Distance 17 s; Planner (belief) 6 s
+(IV) Collaborative,117.30558065,0,82.0743567497101,13.3480126122201,4.57763063806979,9.95238095238095,0.161280997020728,0.207623457248934,1,2,2,0.861,Planner (belief) 69 s; Fatigue level 11 s; Sensing 5 s

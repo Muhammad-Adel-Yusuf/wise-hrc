@@ -1,0 +1,326 @@
+{
+  "R_wc": [
+    [
+      -0.49443970154977257,
+      -0.15833631105721319,
+      0.8546689383218307
+    ],
+    [
+      -0.8657856005285651,
+      0.1769313855667509,
+      -0.4680924894920038
+    ],
+    [
+      -0.07710172143839433,
+      -0.9714035708201938,
+      -0.224567199628559
+    ]
+  ],
+  "origin_cam_m": [
+    0.4050025768694292,
+    0.2459649167022136,
+    0.8855831830117068
+  ],
+  "R_w_robot": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      -0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "frame": "W: origin robot base on the table, x towards the worker, y to the worker's right, z up; metres",
+  "created": "2026-10-08T23:35:35",
+  "method": "real robot (recorded robot points + hand baseline)",
+  "places_W": {
+    "base": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "assembly_area": {
+      "x": [
+        0.2042,
+        0.6987
+      ],
+      "y": [
+        0.246,
+        0.8014
+      ],
+      "height": 0.1269
+    },
+    "handover": [
+      0.2814,
+      0.1469,
+      0.4168
+    ],
+    "storage": [
+      0.1577,
+      -0.3904,
+      0.1517
+    ],
+    "safe": [
+      0.0769,
+      0.0015,
+      0.4193
+    ],
+    "handover_mode": "recorded with the robot",
+    "storage_mode": "robot action point pos2 (tasks/robot_points.txt)"
+  },
+  "robot": {
+    "shoulder_height": 0.2433,
+    "object_height": 0.2433
+  },
+  "storage_object_height": 0.0866,
+  "robot_poses_W": {
+    "safe": [
+      0.0769,
+      0.0015,
+      0.4193
+    ],
+    "storage": [
+      0.1577,
+      -0.3904,
+      0.1517
+    ],
+    "handover": [
+      0.2814,
+      0.1469,
+      0.4168
+    ],
+    "collab": [
+      0.2885,
+      0.2513,
+      0.1979
+    ]
+  },
+  "zones": {
+    "dProhibit": 0.01,
+    "dCollabMax": 0.35,
+    "dAssistMax": 0.8884,
+    "assistRadius": 0.065
+  },
+  "checks": {
+    "robot at the safe position clear of the assembly area": true,
+    "handover point outside the assembly area": true,
+    "robot paths do not cross the assembly area": true,
+    "handover point within reach": true,
+    "robot base column clear of the assembly area (fixed, any pose)": true,
+    "idle robot at SAFE: hand in the assembly area counts as separated": true,
+    "storage point within the robot's reach (tool pointing down) and the safety box": true,
+    "robot storage point inside a storage box": true
+  },
+  "settings": {
+    "object_window_px": 250,
+    "robot_height_override_m": 0.0,
+    "object_min_height_m": 0.015,
+    "robot_max_radius_m": 0.06,
+    "storage_max_radius_m": 0.15,
+    "handover_height_m": 0.2,
+    "handover_offset_m": 0.1,
+    "storage_above_object_m": 0.05,
+    "collab_height_m": 0.16,
+    "area_height_m": 0.1269,
+    "safe_clearance_m": 0.15,
+    "reach_max_m": 0.45,
+    "collab_radius_m": 0.35,
+    "assist_radius_m": 0.065,
+    "prohibit_radius_m": 0.01
+  },
+  "camera": {
+    "color": "1280x720@30 OBFormat.MJPG",
+    "depth_align": "software AlignFilter (depth->color)"
+  },
+  "assembly_baseline": {
+    "duration_s": 20.0,
+    "hand_points": 192,
+    "percentiles": [
+      2.0,
+      98.0
+    ],
+    "margin_mm": 30.0,
+    "area_robot_mm": {
+      "xmin": 204.2,
+      "xmax": 698.7,
+      "ymin": 246.0,
+      "ymax": 801.4,
+      "zmax": 126.9
+    },
+    "hand_z_p50_mm": 54.7,
+    "footprint_robot_mm": [
+      [
+        672.0,
+        515.4
+      ],
+      [
+        672.0,
+        517.0
+      ],
+      [
+        653.0,
+        555.3
+      ],
+      [
+        501.5,
+        782.0
+      ],
+      [
+        479.9,
+        790.9
+      ],
+      [
+        364.2,
+        783.3
+      ],
+      [
+        268.4,
+        714.4
+      ],
+      [
+        243.9,
+        682.0
+      ],
+      [
+        241.0,
+        661.2
+      ],
+      [
+        233.5,
+        343.0
+      ],
+      [
+        234.3,
+        342.0
+      ],
+      [
+        348.2,
+        279.5
+      ],
+      [
+        370.6,
+        272.0
+      ],
+      [
+        377.0,
+        276.2
+      ]
+    ],
+    "points_file": "POMDP model\\workstation_preview\\assembly_baseline_points.csv"
+  },
+  "storage_baseline": {
+    "method": "blue storage boxes: colour + wide-mode depth, anchored on robot-recorded box centres",
+    "created": "2026-10-08T22:51:02",
+    "boxes": [
+      {
+        "name": "storage_box1",
+        "centre_tool_mm": [
+          16.7,
+          -377.9,
+          164.0
+        ],
+        "joints_deg": [
+          -88.1,
+          51.2,
+          81.7,
+          98.1,
+          4.8,
+          -167.8
+        ],
+        "corners_robot_mm": [
+          [
+            -59.7,
+            -595.1
+          ],
+          [
+            68.8,
+            -602.2
+          ],
+          [
+            81.9,
+            -364.0
+          ],
+          [
+            -46.5,
+            -356.9
+          ]
+        ],
+        "size_mm": [
+          129,
+          239
+        ],
+        "n_points": 5251
+      },
+      {
+        "name": "storage_box2",
+        "centre_tool_mm": [
+          148.7,
+          -385.2,
+          136.3
+        ],
+        "joints_deg": [
+          -70.4,
+          64.9,
+          98.6,
+          86.5,
+          10.9,
+          -167.5
+        ],
+        "corners_robot_mm": [
+          [
+            68.8,
+            -602.2
+          ],
+          [
+            204.1,
+            -609.7
+          ],
+          [
+            217.3,
+            -371.5
+          ],
+          [
+            81.9,
+            -364.0
+          ]
+        ],
+        "size_mm": [
+          136,
+          239
+        ],
+        "n_points": 4526
+      }
+    ],
+    "rim_mm": 86.6,
+    "area_robot_mm": {
+      "xmin": -59.7,
+      "xmax": 217.3,
+      "ymin": -609.7,
+      "ymax": -356.9,
+      "zmax": 86.6
+    },
+    "camera_shift_mm": -24.6,
+    "points_file": "POMDP model\\workstation_points.txt",
+    "check_image": "POMDP model\\workstation_preview\\storage_boxes.png"
+  },
+  "real_robot": {
+    "theta_deg": 0.0,
+    "points_file": "workstation_points.txt",
+    "robot_camera_calibration_created": "2026-10-08T22:31:24",
+    "use": "p_W_m = R_w_robot @ p_robot_mm / 1000 (W = robot frame in metres)"
+  },
+  "action_points": {
+    "storage": "pos2",
+    "collab": "pos12",
+    "handover": "pos4",
+    "safe": "pos16"
+  }
+}

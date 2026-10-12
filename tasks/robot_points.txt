@@ -1,0 +1,37 @@
+# ROBOT POINTS used by the action files task0.txt ... task11.txt (recorded by moving the robot by hand, 2026-10-08).
+# name:[J1, J2, J3, J4, J5, J6]  joint angles in degrees.  Tool position (robot frame, mm) from the robot's kinematics.
+#
+# WRIST CONFIGURATION (2026-10-08): all points use the same wrist configuration (J4 near 0). The Lite 6 reaches every
+# tool pose also with (J4 +/- 180, -J5, J6 +/- 180); pos3, pos4, pos9 - pos16 were recorded that other way (J4 near 180)
+# and are written here in the J4-near-0 form: identical tool poses, but no 180-degree wrist turns between points.
+# test_actions.py prints a NOTE when two points of an action turn the wrist much more than needed.
+#
+# storage (action 0, 3)
+pos0:[-24, 53.4, 142.2, 3.5, 73.9, -73.2]          # transit point, high, storage side  tool [370, -162, 385]
+pos1:[-68, 60, 125, 0, 60, -70]                    # PRE-GRASP above box 2 (2026-10-08)  tool [157, -390, 264]
+pos2:[-68, 70, 115, 0, 35, -70]                    # GRASP in box 2 (2026-10-08)         tool [157, -390, 151]
+# storage exit rule (robot_code.py EXIT_VIA): on the line pos1 - pos2 (box 2) or pos17 - pos18 (box 1) the robot first
+# goes straight up to the pre-grasp (pos1 / pos17) before any other move, so it never leaves the box sideways (it would pass 3 - 17 mm over the box wall)
+# handover (action 3, 4)
+pos3:[-6, 14.4, 85.5, -3.1, 51.2, -24.9]        # pre-handling point           tool [310, -36, 389]
+pos4:[27.4, 13.2, 89.5, 1.9, 44.8, -19.1]      # HANDLING point               tool [282, 147, 417]
+# old solo work points (not used since 2026-10-08: solo = box 1 <-> box 2, pos17 / pos18 and pos1 / pos2)
+pos5:[-57.3, 50.6, 96.6, 179.7, -47, -255.9]       #                              tool [202, -318, 214]
+pos6:[-42.6, 47.2, 108.3, 193.4, -68.4, -265.4]    #                              tool [288, -249, 286]
+pos7:[-34.5, 52.6, 108.3, 199.4, -38.3, -279.4]    #                              tool [348, -226, 252]
+pos8:[-35.2, 59.9, 111.8, 238.2, -18.6, -329.7]    #                              tool [372, -244, 228]
+# collaborative work (action 5, 6): first time via pos9 - pos11, then between pos12 and pos13
+pos9:[-4.9, 20.3, 84.7, 16.5, 57.7, -72.4]      #                              tool [319, -14, 353]
+pos10:[15.9, 32.7, 84.3, 16.9, 40.1, -48.9]     #                              tool [336, 107, 280]
+pos11:[41.9, 46.7, 75.1, 22.1, -5.9, -4.5]       #                              tool [273, 241, 171]
+pos12:[44.5, 46.7, 74.9, 33.2, -43, -11]          # collaborative point A        tool [289, 251, 198]
+pos13:[44.4, 46.7, 74.9, 0, 15.4, -12.4]       # collaborative point B        tool [246, 240, 162]
+# retreat to the safe position (action 9)
+pos14:[18, 34.3, 78.9, 6, 43.7, -41.2]         #                              tool [317, 107, 247]
+pos15:[2.8, 6.2, 79.8, 2.1, 70, -35]           #                              tool [266, 14, 401]
+pos16:[1.8, -47.9, 46.2, 0, 86.9, -25.3]       # SAFE position                tool [77, 1, 419]
+# storage box 1 (solo work, action 1, 2: box 1 <-> box 2)
+pos17:[-90, 60, 125, 0, 60, -90]                   # PRE-GRASP above box 1 (2026-10-08)  tool [-2, -421, 264]
+pos18:[-90, 70, 118, 0, 45, -90]                   # GRASP in box 1 (2026-10-08)         tool [-2, -419, 162]
+# (box 1 was recorded as J4 180 / J5 -60, -45 / J6 -270: the same tool pose with the wrist turned over; written here in
+#  the wrist configuration of box 2 (J4 0, J5 -> -J5, J6 + 180) so that going from box to box does not turn the wrist)

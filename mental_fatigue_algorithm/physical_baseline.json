@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "reason": "",
+  "frames": 65,
+  "valid_fraction": 1.0,
+  "trunk_sd_raw_deg": 3.649147019455753,
+  "frames_trimmed": 7,
+  "trunk_sd_deg": 2.080174407357981,
+  "tilt_from_default_deg": 29.151539359389236,
+  "arm_elev_rest_p90_deg": 53.14679861980394,
+  "wrist_speed_mean_mps": 0.03666400628072664,
+  "up": [
+    0.052245932535795764,
+    -0.873334395583158,
+    -0.4843112594446523
+  ],
+  "n_frames_total": 65,
+  "captured_iso": "2026-10-06T00:00:07"
+}

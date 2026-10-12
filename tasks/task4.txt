@@ -1,0 +1,6 @@
+# ACTION 4: ASSISTIVE_HOLD_CONFIRM (ah)
+# stop at the handling point and wait for the worker to take the tool
+# Format: points come from robot_points.txt.  path = points visited in order;  entry = points visited first, only
+# when the robot is not already on the path;  wait = point:seconds (pause there on every pass);  loop = repeat the
+# path until a new action arrives;  stop = true: stop where the robot is and hold.  speed = slow | normal | fast | deg/s
+stop=true

@@ -1,0 +1,14 @@
+time_s,event,robot_action,reason
+0,START (G),task-layer move,transfer_monitored
+11.806729,action change,collab. normal,
+22.9418673,protective stop (proximity),protective stop,active_interaction_risk
+22.9418673,action change,protective stop,active_interaction_risk
+28.8511814,protective stop released,collab. normal,
+28.8511814,action change,collab. normal,
+240.2184056,action change,collab. slow,
+346.5173443,protective stop (distraction),protective stop,risky_distraction
+346.5173443,action change,protective stop,risky_distraction
+409.8508983,protective stop released,collab. slow,
+409.8508983,action change,collab. slow,
+546.5561536,action change,task-layer move,transfer_monitored
+546.5561536,STOP (X),task-layer move,transfer_monitored
