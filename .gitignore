@@ -26,3 +26,4 @@ __pycache__/
 *.bak_*
 POMDP model/workstation_preview/before_*/
 POMDP model/workstation_preview/*_before_*
+!media/WISE_demonstration.mp4
